@@ -34,7 +34,7 @@
   3 [red]#&#9670;# = 6+ [red]#&#9670;#, 0-2 [red]#&hearts;#, 11-12p +
   3 [red]#&hearts;# = 3+ [red]#&hearts;#, inviitti, 10-12p, +
   3&spades; / 4 &clubs; / 4 [red]#&#9670;# = 4+ [red]#&hearts;#, splintteri, 0-1 tarjottua väriä, 11-15p (paremmalla 2NT) +
-  4 [red]#&hearts;# = 5+!h, esto,  0 - 8p +
+  4 [red]#&hearts;# = 5+[red]#&hearts;#, esto,  0 - 8p +
   4&spades; = 7+ &spades;, pelattavaksi, enintään 10p +
 
 | 1 &spades; = 5+ &spades;, 11+p
@@ -49,18 +49,5 @@
  3 &spades; = 3+ &spades;, inviitti, 11-12p +
  4 &clubs; / 4 [red]#&#9670;# / 4 [red]#&hearts;# = 4+ &spades;, splintteri, 11-15p +
  4 &spades; = 5+ &spades;, esto, 0-8p
-|Column 1, row 6
-|Column 2, row 6
 
-|Column 1, row 7
-|Column 2, row 7
-
-|Column 1, row 8
-|Column 2, row 8
-
-|Column 1, row 9
-|Column 2, row 9
-
-|Column 1, row 10
-|Column 2, row 10
 |===
