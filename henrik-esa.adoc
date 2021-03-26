@@ -1,0 +1,58 @@
+
+|===
+| Avaus  | Vastaus
+| 1 &clubs; = 2+&clubs;, 11+p
+|1 [red]#&#9670;# = 4+[red]#&hearts;# 6+p, +
+ 1 [red]#&hearts;# = 4+&spades;, 6+p, +
+ 1 &spades; = 4+[red]#&#9670;#, 6+p +
+ 1 NT = ei 4k yv, 6-10p,  +
+ 2 [red]#&#9670;# = 5+ &clubs; yleensä tasaisehko, 4k yv, tpv +
+ 2&clubs; = 5+&clubs;, ei 4k yv., yleensä epätas. 5-10p +
+ 2NT = tasainen, ei 4k yv, 11-12p +
+ 3&clubs; = 5+&clubs;, ei 4k yv., yleensä epätas. 11-12p +
+ 3 [red]#&#9670;# / 3 [red]#&hearts;# / 3&spades; = 5+&clubs; ei 4k yv, 0-1 tarjouttua väriä, tpv
+ 4+ &clubs; = 5+ &clubs; ei 4k yv, esto
+|1 [red]#&#9670;# = 4+[red]#&#9670;#, 11+p
+|1 [red]#&hearts;# = 4+[red]#&hearts;#, 6+p +
+ 1 &spades; = 4+&spades;, 6+p +
+ 1NT = ei 4k yv, 6-10p +
+ 2&clubs; = 4+&clubs;, tpv +
+ 2 [red]#&#9670;# = 4+ [red]#&#9670;#, 6-10p +
+ 2NT = tasainen, ei 4k yv, 11-12p +
+ 3 &clubs; = 4+ [red]#&#9670;# yleensä tasaisehko, ei 4k yv, tpv
+
+| 1 [red]#&hearts;# = 5+[red]#&hearts;#, 11+p
+| 1 &spades; = 4+[red]#&hearts;#, 6+p +
+  1NT = ei 3 [red]#&hearts;#, 6 - 11(12)p +
+  2&clubs; = 4+&clubs; tpv +
+  2 [red]#&#9670;# = 4+&clubs; tpv +
+  2 [red]#&hearts;# = 3+[red]#&hearts;#, 6-10p +
+  2NT = 4+ [red]#&hearts;#, Jacoby 2NT, tpv +
+  3&clubs; = 6+&clubs;, 0-2 [red]#&hearts;#, 11-12p +
+  3 [red]#&#9670;# = 6+ [red]#&#9670;#, 0-2 [red]#&hearts;#, 11-12p +
+  3&spades; / 4 &clubs; / 4 [red]#&#9670;# = 4+ [red]#&hearts;#, splintteri, 0-1 tarjottua väriä, 11-15p (paremmalla 2NT) +
+  4&spades; = 7+ &spades;, pelattavaksi, enintään 10p +
+
+| 1 &spades; = 5+ &spades;, 11+p
+|1NT = ei tukea, 6-11(12) +
+ 2&clubs; = 3+&clubs;, ei kiellä 3k tukea, tpv +
+ 2 [red]#&#9670;# = 4+ [red]#&#9670;#, ei kiellä 3k tukea, tpv +
+ 2 [red]#&hearts;# = 5+ [red]#&hearts;#, tpv +
+ 2NT = 4+ &spades;, Jacoby 2NT, tpv +
+ 3 &clubs; = 6+ &clubs;, 0-2  11-12p
+
+|Column 1, row 6
+|Column 2, row 6
+
+|Column 1, row 7
+|Column 2, row 7
+
+|Column 1, row 8
+|Column 2, row 8
+
+|Column 1, row 9
+|Column 2, row 9
+
+|Column 1, row 10
+|Column 2, row 10
+|===
