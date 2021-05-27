@@ -1,0 +1,206 @@
+
+== Esa ja Jari 2/1
+
+=== Yhden tason väriavausten jatkoja
+
+|===
+| Avaus  | Vastaus | Jatko
+| 1 &clubs; = 2+&clubs;, 11+p
+|1 [red]#&#9670;# = 4+[red]#&hearts;# 6+p, +
+1 [red]#&hearts;# = 4+&spades;, 6+p, +
+1 &spades; = 4+[red]#&#9670;#, 6+p +
+1 NT = tas. ei 4k yv, 6-10p,  +
+2 [red]#&#9670;# = 5+ &clubs; yleensä tasaisehko, 4k yv, tpv +
+2&clubs; = 5+&clubs;, ei 4k yv., yleensä epätas. 5-10p +
+2NT = tasainen, ei 4k yv, 11-12p +
+3&clubs; = 5+&clubs;, ei 4k yv., yleensä epätas. 11-12p +
+3 [red]#&#9670;# / 3 [red]#&hearts;# / 3&spades; = 5+&clubs; ei 4k yv, 0-1 tarjouttua väriä, tpv
+4+ &clubs; = 5+ &clubs; ei 4k yv, esto +
+| 1 [red]#&#9670;#, 1 [red]#&hearts;#  katso Transfer Walsh
+
+|1 [red]#&#9670;# = 4+[red]#&#9670;#, 11+p +
+|1 [red]#&hearts;# = 4+[red]#&hearts;#, 6+p +
+1 &spades; = 4+&spades;, 6+p +
+1NT = ei 4k yv, 6-10p +
+2&clubs; = 4+&clubs;, tpv +
+2 [red]#&#9670;# = 4+ [red]#&#9670;#, 6-10p +
+2NT = tasainen, ei 4k yv, 11-12p +
+3 &clubs; = 4+ [red]#&#9670;# yleensä tasaisehko, ei 4k yv, tpv +
+3 [red]#&#9670;# = 4+ [red]#&#9670;#, yleensä epätas., 11-12p
+| 2 [red]#&hearts;# = 5+ [red]#&hearts;#, min +
+
+| 1 [red]#&hearts;# = 5+[red]#&hearts;#, 11+p
+| 1 &spades; = 4+[red]#&hearts;#, 6+p +
+1NT = ei 3 [red]#&hearts;#, 6 - 11(12)p +
+2&clubs; = 4+&clubs; tpv +
+2 [red]#&#9670;# = 4+&clubs; tpv +
+2 [red]#&hearts;# = 3+[red]#&hearts;#, 6-10p +
+2NT = 4+ [red]#&hearts;#, Jacoby 2NT, tpv +
+3&clubs; = 6+&clubs;, 0-2 [red]#&hearts;#, 11-12p +
+3 [red]#&#9670;# = 6+ [red]#&#9670;#, 0-2 [red]#&hearts;#, 11-12p +
+3 [red]#&hearts;# = 3+ [red]#&hearts;#, inviitti, 10-12p, +
+3&spades; / 4 &clubs; / 4 [red]#&#9670;# = 4+ [red]#&hearts;#, splintteri, 0-1 tarjottua väriä, 11-15p (paremmalla 2NT) +
+4 [red]#&hearts;# = 5+[red]#&hearts;#, esto,  0 - 8p +
+4&spades; = 7+ &spades;, pelattavaksi, enintään 10p +
+|
+
+| 1 &spades; = 5+ &spades;, 11+p
+|1NT = ei tukea, 6-11(12) +
+2&clubs; = 3+&clubs;, ei kiellä 3k tukea, tpv +
+2 [red]#&#9670;# = 4+ [red]#&#9670;#, ei kiellä 3k tukea, tpv +
+2 [red]#&hearts;# = 5+ [red]#&hearts;#, tpv +
+2NT = 4+ &spades;, Jacoby 2NT, tpv +
+3 &clubs; = 6+ &clubs;, 0-2 &spades;,  11-12p +
+3 [red]#&#9670;# = 6+ [red]#&#9670;#, 0-2 &spades;, 11-12p +
+3 [red]#&hearts;# = 6+[red]#&hearts;#, 0-2 &spades;, 11-12p +
+3 &spades; = 3+ &spades;, inviitti, 11-12p +
+4 &clubs; / 4 [red]#&#9670;# / 4 [red]#&hearts;# = 4+ &spades;, splintteri, 11-15p +
+4 &spades; = 5+ &spades;, esto, 0-8p
+|
+
+
+|===
+
+
+=== Transfer Walsh
+
+Tämä sopimus ei muuta luonnollisesta systeemistä kuin kolmen kortin
+tuen ilmaisun, kun avaajalla on tasainen minimi tai epätasainen käsi.
+Epätasaisen käden vaihtelevan voiman takia kolmen kortin tuen näyttäminen
+on vaatimus vastaajalle. Kaikki muut tarjoukset säilyvät ennallaan.
+Transfer Walsh on voimassa kahdennuksen jälkeenkin.
+
+|===
+|Avaus | Vastaus | Avaaja 2. | Vastaaja 2.
+
+| 1 &clubs;
+| 1 [red]#&#9670;# = 4+ [red]#&hearts;#, 6+p
+| 1 [red]#&hearts;# = tasan 3 [red]#&hearts;#, vaatimus +
+2 [red]#&hearts;# = 4 [red]#&hearts;#, 11-15p, ei vaat. +
+2 &spades; = 0-2 [red]#&hearts;#, reverse +
+2NT = tas., 2-3 [red]#&hearts;#, 18-19p +
+3 &clubs; = 0-2 [red]#&hearts;#, 6+ &clubs;, 16-18p +
+3 [red]#&#9670;#, 3&spades; = 0-1 [red]#&#9670;# / &spades;, 4 [red]#&hearts;#, tpv +
+3 [red]#&hearts;# = 4 [red]#&hearts;#, 16-18p
+
+| 2 [red]#&hearts;# = 5+ [red]#&hearts;#, 6-10p +
+
+| 1 &clubs;
+| 1 [red]#&hearts;# = 4+ &spades;, 6+p
+| 1 &spades; = tasan 3&spades;, vaat. +
+2 &spades; = 4 &spades;, 11-15p +
+2NT = tas., 2-3 &spades;, 18-19p +
+3 &clubs; = 0-2 , 6+ &clubs;, 1&spades; 6-18p +
+3 [red]#&#9670;#, [red]#&hearts;# = 0-1 [red]#&#9670;# / [red]#&hearts;#, 4 &spades;, tpv +
+3 &spades; = 4 &spades;, 16-18p
+|
+|===
+
+=== Lisää 2/1-sarjoista esimerkein
+
+Alla esimerkkejä sarjoista, joiden kanssa analogiset sarjat
+saavat saman merkityksen.
+
+|===
+|Avaus | Vastaus | Avaaja 2. | Vastaaja 2.
+
+| 1 [red]#&hearts;#
+| 2&clubs;
+| 2 [red]#&hearts;# = min ja ei sivupitoja tai 17+
+|
+
+|
+|
+|
+|
+
+|===
+
+
+=== 1NT-jatkot
+
+|===
+|Avaus | Vastaus | Avaaja 2. | Vastaaja 2.
+
+|1NT = tas. 15-17
+| 2&clubs; = Stayman
+| 2 [red]#&#9670;# = ei 4yv
+| 2 [red]#&hearts;# = 5 [red]#&hearts;# 4 &spades;, inv. +
+2 &spades; = 5 &spades;, 4 [red]#&hearts;#, inv +
+3&clubs; = 5+&clubs;, tpv +
+3 [red]#&#9670;# = 5+ [red]#&#9670;#, tpv +
+3 [red]#&hearts;# = 5+ &spades;, 4 [red]#&hearts;#, tpv +
+3 &spades; = 5+ [red]#&hearts;#, 4&spades;, tpv
+
+|
+| 2 [red]#&#9670;# = 5+ [red]#&hearts;#, siirto
+| 2 [red]#&hearts;# = 2+ [red]#&hearts;# +
+3 [red]#&hearts;# = 4+[red]#&hearts;#, max
+|
+
+|
+| 2 [red]#&hearts;# = 5+ &spades;, siirto +
+| 2 &spades; = 2+ &spades; +
+3 &spades; = 4+&spades;, max
+|
+
+|
+| 2 &spades; = 6+&clubs;, kysyy max
+| 2NT = min, 3&clubs; = 3+&clubs; max
+|
+
+|
+| 3&clubs; = 6+ [red]#&#9670;#, siirto
+| 3 [red]#&#9670;# = siirto vastaan
+| 3yv = lyhyys yv:ssä +
+3NT = 15-16p, ei lyhyyksiä
+
+|
+| 3 [red]#&hearts;# = 3&spades; 1 [red]#&hearts;# av:t 5-4, tpv
+|
+|
+
+|
+| 3&spades; = 3 [red]#&hearts;# 1 &spades; av:t 5-4, tpv
+|
+|
+
+|
+| 4&clubs; = Gerber
+| 4 [red]#&#9670;# = 0 / 4 +
+4 [red]#&hearts;# = 1 +
+4 &spades; = 2 +
+4NT = 3
+|
+
+|
+| 4 [red]#&#9670;# = 6+ [red]#&hearts;# (aina voimassa)
+|
+|
+
+|
+| 4 [red]#&hearts;# = 6+&spades; (aina voimassa)
+|
+|
+
+|
+| 4NT = 16-17p, kvantti
+|
+|
+
+
+|===
+
+
+
+
+
+
+
+
+
+
+
+
+
+
