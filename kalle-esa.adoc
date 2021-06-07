@@ -125,10 +125,10 @@ Sopimus on voimassa kahdennuksen jälkeenkin, mutta ei muuten.
 | 1 [red]#&hearts;#
 | 2NT = 4+ [red]#&hearts;#, 13+, tpv
 | 3&clubs; / 3 [red]#&#9670;# / 3 &spades; = lyhyys tarjotussa värissä, 11+ +
-  3 [red]#&hearts;# = 6+ [red]#&hearts;# 15+, ei lyhyyttä
-  3NT = 5 [red]#&hearts;# 422, 16-18 +
-  4 &clubs; / [red]#&#9670;# = vahva sivuväri, 11+ +
-  4 [red]#&hearts;# = minimi, ei lyhyyttä
+3 [red]#&hearts;# = 6+ [red]#&hearts;# 15+, ei lyhyyttä
+3NT = 5 [red]#&hearts;# 422, 16-18 +
+4 &clubs; / [red]#&#9670;# = vahva sivuväri, 11+ +
+4 [red]#&hearts;# = minimi, ei lyhyyttä
 | 3 [red]#&hearts;# = pyytää cueta, muut cue-tarjouksia, ekstraa. 4 [red]#&hearts;# = minimi
 
 | 1 &spades;
@@ -139,7 +139,7 @@ Sopimus on voimassa kahdennuksen jälkeenkin, mutta ei muuten.
 4 &clubs; / [red]#&#9670;# / [red]#&hearts;# = vahva sivuväri, 11+ +
 4 [red]#&hearts;# = minimi, ei lyhyyttä
 | 3 &spades; = pyytää cueta, muut cue-tarjouksia, ekstraa. +
-  4 &spades; = minimi
+4 &spades; = minimi
 
 |===
 
@@ -158,7 +158,7 @@ on kolme tarjousta ja jatko on seuraava.
 
 | 1x - 1y - 1z
 | 2 &clubs; = pyytää 2 [red]#&#9670;#. Tekee myöhemmin inviitin
- tai passaa 2 [red]#&#9670;# tarjoten oman ruutuvärin +
+tai passaa 2 [red]#&#9670;# tarjoten oman ruutuvärin +
 
  2 [red]#&#9670;# = keinotekoinen tpv, pyytää kuvaamaan kättä +
 
@@ -260,13 +260,13 @@ vastaavasti.
 |
 | 1 [red]#&hearts;#
 | Dbl = 4 &spades;, 7+ +
-  1 &spades; = 5+ &spades;, 6+ +
-  1NT = 6 - 10 +
-  2 &clubs; = 5+ &clubs;, 11+ +
-  2 [red]#&#9670;# = 4+, 6 - 10 +
-  2 [red]#&hearts;# = 4+ [red]#&#9670;#, 11+ +
-  2NT = pito hertassa, 11-12, ei tukea +
-  3 [red]#&hearts;# = 0-1 [red]#&hearts;#, 4+[red]#&#9670;#, usein slammihakuinen, tpv
+1 &spades; = 5+ &spades;, 6+ +
+1NT = 6 - 10 +
+2 &clubs; = 5+ &clubs;, 11+ +
+2 [red]#&#9670;# = 4+, 6 - 10 +
+2 [red]#&hearts;# = 4+ [red]#&#9670;#, 11+ +
+2NT = pito hertassa, 11-12, ei tukea +
+3 [red]#&hearts;# = 0-1 [red]#&hearts;#, 4+[red]#&#9670;#, usein slammihakuinen, tpv
 
 
 |===
