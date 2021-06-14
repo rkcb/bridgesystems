@@ -17,7 +17,7 @@
 3&clubs; = 5+&clubs;, ei 4k yv., yleensä epätas. 11-12p +
 3 [red]#&#9670;# / 3 [red]#&hearts;# / 3&spades; = 5+&clubs; ei 4k yv, 0-1 tarjouttua väriä, tpv
 4+ &clubs; = 5+ &clubs; ei 4k yv, esto +
-| 1 [red]#&#9670;#, 1 [red]#&hearts;#  katso Transfer Walsh
+| 1 [red]#&#9670;#, 1 [red]#&hearts;#  katso <<Transfer Walsh>>
 
 |1 [red]#&#9670;# = 4+[red]#&#9670;#, 11+p +
 |1 [red]#&hearts;# = 4+[red]#&hearts;#, 6+p +
@@ -36,7 +36,7 @@
 2&clubs; = 4+&clubs; tpv +
 2 [red]#&#9670;# = 4+&clubs; tpv +
 2 [red]#&hearts;# = 3+[red]#&hearts;#, 6-10p +
-2NT = 4+ [red]#&hearts;#, Jacoby 2NT, tpv +
+2NT = 4+ [red]#&hearts;#, <<Jacoby 2NT>>, tpv +
 3&clubs; = 6+&clubs;, 0-2 [red]#&hearts;#, 11-12p +
 3 [red]#&#9670;# = 6+ [red]#&#9670;#, 0-2 [red]#&hearts;#, 11-12p +
 3 [red]#&hearts;# = 3+ [red]#&hearts;#, inviitti, 10-12p, +
@@ -50,7 +50,7 @@
 2&clubs; = 3+&clubs;, ei kiellä 3k tukea, tpv +
 2 [red]#&#9670;# = 4+ [red]#&#9670;#, ei kiellä 3k tukea, tpv +
 2 [red]#&hearts;# = 5+ [red]#&hearts;#, tpv +
-2NT = 4+ &spades;, Jacoby 2NT, tpv +
+2NT = 4+ &spades;, <<Jacoby 2NT>>, tpv +
 3 &clubs; = 6+ &clubs;, 0-2 &spades;,  11-12p +
 3 [red]#&#9670;# = 6+ [red]#&#9670;#, 0-2 &spades;, 11-12p +
 3 [red]#&hearts;# = 6+[red]#&hearts;#, 0-2 &spades;, 11-12p +
@@ -117,8 +117,8 @@ saavat saman merkityksen.
 
 |===
 
-=== 1 [red]#&hearts;# / &spades; - 2NT -jatkot
-Sopimus on voimassa kahdennuksen jälkeenkin, mutta ei muuten.
+=== Jacoby 2NT
+Jacoby 2NT alkaa, kun avaamamme sarja on edennyt 1yv - 2NT. Sopimus on voimassa kahdennuksen jälkeenkin, mutta ei muuten.
 |===
 |Avaus | Vastaus | Avaaja 2. | Vastaaja 2.
 
@@ -267,7 +267,7 @@ vastaavasti.
 | Dbl
 | Rdbl = 11+, rangaistusluonteinen, ei tukea
 
-|
+| U+2660
 | 1 [red]#&hearts;#
 | Dbl = 4 &spades;, 7+ +
 1 &spades; = 5+ &spades;, 6+ +
