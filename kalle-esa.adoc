@@ -294,7 +294,7 @@ vastaavasti.
 
 |
 | 2&clubs; = ylävärit vähintään 5-4, 9+
-| 2 !d = yhtä pitkät ylävärit, valitse
+| 2 [red]#&#9670;# = yhtä pitkät ylävärit, valitse
 
 |
 | 2 [red]#&#9670;# = 6k yläväri, 9+
@@ -312,9 +312,35 @@ vastaavasti.
 
 == RKCB
 
-Vastaukset 14 / 03, jonka jälkeen 5NT kertoo, että on kaikki avainkortit. Jos
-
+Vastaukset 14 / 03, jonka jälkeen 5NT kertoo, että on kaikki avainkortit.
 Tämän jälkeen näytetään sivukuninkaita vuorotellen alhaalta alkaen ja alle valttivärin.
+
+|===
+| Ässäkysely | Vastaus | Kysyjän 2. tarjous | Vastaajan toinen
+
+| 4NT
+| 5 &clubs; = 1 tai 4 avainkorttia
+| 5 [red]#&#9670;# = kysyy rouvaa vain jos valttina on yläväri
+|
+
+|
+| 5 [red]#&#9670;# = 2 tai 5 avainkorttia
+| 5
+|
+
+|
+| 5 [red]#&hearts;# = 2 avainkorttia ja ei valttirouvaa
+|
+|
+
+|
+| 5 &spades; = 2 avainkorttia ja valttirouva
+|
+|
+
+|===
+
+
 
 == Merkinannot
 
