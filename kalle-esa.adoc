@@ -168,9 +168,19 @@ tai passaa 2 [red]#&#9670;# tarjoten oman ruutuvärin +
 
 |===
 
-==== Esimerkki
+==== Esimerkki 1 - inviitti omalla ylävärillä
+
 1 [red]#&#9670;# - 1 [red]#&hearts;#; 1NT - 2&clubs; ; 2 [red]#&#9670;# - 2 [red]#&hearts;# = yleensä 6+
 [red]#&hearts;# ja 11-12p.
+
+==== Esimerkki 2 - inviitti tasaisella kädellä
+
+1 [red]#&#9670;# - 1 [red]#&hearts;#; 1NT - 2&clubs; ; 2 [red]#&#9670;# - 2NT =
+ja 11-12p.
+
+==== Esimerkki 3 - täyspelivaatimus
+
+1 [red]#&#9670;# - 1 [red]#&hearts;#; 1NT -  ; 2 [red]#&#9670;# = mikä tahansa tpv.
 
 == 1NT-jatkot
 
@@ -292,12 +302,29 @@ vastaavasti.
 
 |
 | 2 [red]#&hearts;# = 4 [red]#&hearts;# + 5k alaväri
-|
+| 2NT kysyy alaväriä
 
 |
 | 2 &spades; = 4 &spades;  + 5k alaväri
-|
+| 2NT kysyy alaväriä
+
 |===
+
+== RKCB
+
+Vastaukset 14 / 03, jonka jälkeen 5NT kertoo, että on kaikki avainkortit. Jos
+
+Tämän jälkeen näytetään sivukuninkaita vuorotellen alhaalta alkaen ja alle valttivärin.
+
+== Merkinannot
+
+- Kuninkaalle näytetään pituutta: pieni parillinen
+- udca eli pieni pyytää ja pieni parillinen
+- 1. sakaus Italialainen
+- Lavinthal, kun tilanne soveltuu
+
+
+
 
 
 
