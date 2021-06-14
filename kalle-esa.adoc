@@ -1,5 +1,5 @@
 
-= Esa ja Jari 2/1
+= Esa ja Kalle 2/1
 :toc:
 
 == Yhden tason avausten jatkoja
@@ -17,7 +17,7 @@
 3&clubs; = 5+&clubs;, ei 4k yv., yleensä epätas. 11-12p +
 3 [red]#&#9670;# / 3 [red]#&hearts;# / 3&spades; = 5+&clubs; ei 4k yv, 0-1 tarjouttua väriä, tpv
 4+ &clubs; = 5+ &clubs; ei 4k yv, esto +
-| 1 [red]#&#9670;#, 1 [red]#&hearts;#  katso <<_transfer_walsh>>
+| 1 [red]#&#9670;#, 1 [red]#&hearts;#  katso Transfer Walsh
 
 |1 [red]#&#9670;# = 4+[red]#&#9670;#, 11+p +
 |1 [red]#&hearts;# = 4+[red]#&hearts;#, 6+p +
@@ -36,7 +36,7 @@
 2&clubs; = 4+&clubs; tpv +
 2 [red]#&#9670;# = 4+&clubs; tpv +
 2 [red]#&hearts;# = 3+[red]#&hearts;#, 6-10p +
-2NT = 4+ [red]#&hearts;#, <<Jacoby 2NT>>, tpv +
+2NT = 4+ [red]#&hearts;#, Jacoby 2NT, tpv +
 3&clubs; = 6+&clubs;, 0-2 [red]#&hearts;#, 11-12p +
 3 [red]#&#9670;# = 6+ [red]#&#9670;#, 0-2 [red]#&hearts;#, 11-12p +
 3 [red]#&hearts;# = 3+ [red]#&hearts;#, inviitti, 10-12p, +
@@ -50,7 +50,7 @@
 2&clubs; = 3+&clubs;, ei kiellä 3k tukea, tpv +
 2 [red]#&#9670;# = 4+ [red]#&#9670;#, ei kiellä 3k tukea, tpv +
 2 [red]#&hearts;# = 5+ [red]#&hearts;#, tpv +
-2NT = 4+ &spades;, <<Jacoby 2NT>>, tpv +
+2NT = 4+ &spades;, Jacoby 2NT, tpv +
 3 &clubs; = 6+ &clubs;, 0-2 &spades;,  11-12p +
 3 [red]#&#9670;# = 6+ [red]#&#9670;#, 0-2 &spades;, 11-12p +
 3 [red]#&hearts;# = 6+[red]#&hearts;#, 0-2 &spades;, 11-12p +
@@ -117,7 +117,7 @@ saavat saman merkityksen.
 
 |===
 
-=== Jacoby 2NT
+=== 1 [red]#&hearts;# / &spades; - 2NT -jatkot
 Sopimus on voimassa kahdennuksen jälkeenkin, mutta ei muuten.
 |===
 |Avaus | Vastaus | Avaaja 2. | Vastaaja 2.
@@ -146,10 +146,10 @@ Sopimus on voimassa kahdennuksen jälkeenkin, mutta ei muuten.
 
 
 
-=== Xyz
+=== Xyz -- 1x - 1y - 1z
 
 Xyz-sopimuksella tarjotaan aina kaikki tasaiset ja oman värin
-inviitit, jossa sarja on alkanut 1x - 1y - 1z. Sopimus ei ole voimassa, jos vastustaja tekee muuta kuin
+inviitit. Sopimus ei ole voimassa, jos vastustaja tekee muuta kuin
 passaa. Xyz tarkoittaa mitä tahansa yhden tasolla tapahtuvaa sarjaa, jossa
 on kolme tarjousta ja jatko on seuraava.
 
@@ -270,6 +270,36 @@ vastaavasti.
 
 
 |===
+
+== 1NT - puolustus
+
+
+
+|===
+| Vastustaja | Me | Jatko
+
+| 1NT
+| Dbl = 16+
+|
+
+|
+| 2&clubs; = ylävärit vähintään 5-4, 9+
+| 2 !d = yhtä pitkät ylävärit, valitse
+
+|
+| 2 [red]#&#9670;# = 6k yläväri, 9+
+| Kuten Multi-avauksessa: 2yv
+
+|
+| 2 [red]#&hearts;# = 4 [red]#&hearts;# + 5k alaväri
+|
+
+|
+| 2 &spades; = 4 &spades;  + 5k alaväri
+|
+|===
+
+
 
 
 

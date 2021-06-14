@@ -271,6 +271,36 @@ vastaavasti.
 
 |===
 
+== 1NT - puolustus
+
+
+
+|===
+| Vastustaja | Me | Jatko
+
+| 1NT
+| Dbl = 16+
+|
+
+|
+| 2&clubs; = ylävärit vähintään 5-4, 9+
+| 2 !d = yhtä pitkät ylävärit, valitse
+
+|
+| 2 [red]#&#9670;# = 6k yläväri, 9+
+| Kuten Multi-avauksessa: 2yv
+
+|
+| 2 [red]#&hearts;# = 4 [red]#&hearts;# + 5k alaväri
+|
+
+|
+| 2 &spades; = 4 &spades;  + 5k alaväri
+|
+|===
+
+
+
 
 
 
