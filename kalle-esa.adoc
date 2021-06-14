@@ -110,11 +110,6 @@ saavat saman merkityksen.
 | 2 [red]#&hearts;# = min ja ei sivupitoja tai 17+
 |
 
-|
-|
-|
-|
-
 |===
 
 === Jacoby 2NT
@@ -267,7 +262,7 @@ vastaavasti.
 | Dbl
 | Rdbl = 11+, rangaistusluonteinen, ei tukea
 
-| U+2660
+|
 | 1 [red]#&hearts;#
 | Dbl = 4 &spades;, 7+ +
 1 &spades; = 5+ &spades;, 6+ +
