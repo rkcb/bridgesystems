@@ -271,6 +271,32 @@ vastaavasti.
 
 |===
 
+
+|===
+| Ässäkysely | Vastaus | Kysyjän 2. tarjous | Vastaajan toinen
+
+| 4NT
+| 5 &clubs; = 1 tai 4 avainkorttia viidestä
+| 5 [red]#&#9670;# = kysyy rouvaa, jos ruutu ei ole valttia
+|
+
+|
+| 5 [red]#&#9670;# =  0 tai 3 avainkorttia viidestä
+|
+|
+
+|
+| 5 [red]#&hearts;# = 2 tai 5 avainkorttia viidestä ja ei valttirouvaa
+|
+|
+
+|
+| 5 &spades; = 2 tai 5 avainkorttia viidestä ja valttirouva
+|
+|
+
+|===
+
 == 1NT - puolustus
 
 
