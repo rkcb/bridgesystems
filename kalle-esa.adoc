@@ -168,9 +168,58 @@ tai passaa 2 [red]#&#9670;# tarjoten oman ruutuvärin +
 
 |===
 
-==== Esimerkki
-1 [red]#&#9670;# - 1 [red]#&hearts;#; 1NT - 2&clubs; ; 2 [red]#&#9670;# - 2 [red]#&hearts;# = yleensä 6+
-[red]#&hearts;# ja 11-12p.
+==== Esimerkki 1
+
+Alla esimerkki, jossa vastaaja invitoi pitkällä hertallaan.
+
+|===
+| Avaaja | Vastaaja
+
+| 1 [red]#&#9670;#
+| 1 [red]#&hearts;#
+
+| 1NT
+| 2 &clubs; = pyytää tarjoamaan 2 [red]#&#9670;#
+
+| 2 [red]#&#9670;#
+| 2 [red]#&hearts;#
+|===
+
+==== Esimerkki 2
+
+Alla esimerkki, jossa vastaaja tekee tasaisen inviitin.
+
+|===
+| Avaaja | Vastaaja
+
+| 1 [red]#&#9670;#
+| 1 [red]#&hearts;#
+
+| 1NT
+| 2 &clubs; = pyytää tarjoamaan 2 [red]#&#9670;#
+
+| 2 [red]#&#9670;#
+| 2NT = 11-12p
+|===
+
+==== Esimerkki 3
+
+Alla esimerkki, jossa vastaaja tekee täyspelin vaatimuksen.
+
+|===
+| Avaaja | Vastaaja
+
+| 1 [red]#&#9670;#
+| 1 [red]#&hearts;#
+
+| 1NT
+| 2 [red]#&#9670;# = keinotekoinen tpv
+
+| 2 [red]#&hearts;# = 3k [red]#&hearts;#
+| 3 [red]#&hearts;# = sopii hertan valtiksi, pyytää cue-tarjouksia, slammitriali
+|===
+
+
 
 == 1NT-jatkot
 
@@ -209,6 +258,12 @@ tai passaa 2 [red]#&#9670;# tarjoten oman ruutuvärin +
 | 3 [red]#&#9670;# = siirto vastaan
 | 3yv = lyhyys yv:ssä +
 3NT = 15-16p, ei lyhyyksiä
+
+|
+| 3 [red]#&#9670;# = 6+ [red]#&#9670;#, inviitti, 8-9p
+|
+|
+
 
 |
 | 3 [red]#&hearts;# = 3&spades; 1 [red]#&hearts;# av:t 5-4, tpv
