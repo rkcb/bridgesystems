@@ -2,6 +2,77 @@
 = Esa ja Jari 2/1
 :toc:
 
+== Avaukset
+
+
+|===
+| Avaus | Vastaus
+
+| 1 &clubs; = 2+ &clubs; , 11+
+|
+
+| 1 [red]#&#9670;# = 4+ [red]#&#9670;# , 11+
+|
+
+| 1 [red]#&hearts;# = 5+ [red]#&hearts;# , 11+
+|
+
+| 1 &spades; = 5+ &spades; , 11+
+|
+
+| 1NT = 15 - 17,  5k yv mahdollinen
+|
+
+| 2 &clubs; = 22+
+|
+
+| 2 [red]#&#9670;# = 6 [red]#&#9670;# , 6 - 10
+|
+
+| 2 [red]#&hearts;# = 6 [red]#&hearts;# , 6- 10
+|
+
+| 2 &spades; = 6 &spades; , 6 - 10
+|
+
+| 2NT = tasainen, 20 - 21
+|
+
+| 3 &clubs; = 7  &clubs; , 6 - 10
+|
+
+| 3 [red]#&#9670;# = 7 [red]#&#9670;# , 6 - 10
+|
+
+| 3 [red]#&hearts;# = 7 [red]#&hearts;# , 6- 10
+|
+
+| 3 &spades; = 7 &spades; , 6 - 10
+|
+
+| 4 &clubs; = 7 - 8  &clubs; , 6 - 10
+|
+
+| 4 [red]#&#9670;# = 7 - 8 [red]#&#9670;# , 6 - 10
+|
+
+| 4 [red]#&hearts;# = 7 - 8 [red]#&hearts;# , 6 - 10
+|
+
+| 4 &spades; = 7 -8 &spades; , 6 - 10
+|
+
+
+
+
+
+
+
+
+|===
+
+
+
 == Yhden tason avausten jatkoja
 
 |===
