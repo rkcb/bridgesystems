@@ -272,6 +272,62 @@ vastaavasti.
 |===
 
 
+|===
+| Ässäkysely | Vastaus | Kysyjän 2. tarjous | Vastaajan toinen
+
+| 4NT
+| 5 &clubs; = 1 tai 4 avainkorttia viidestä
+| 5 [red]#&#9670;# = kysyy rouvaa, jos ruutu ei ole valttia
+|
+
+|
+| 5 [red]#&#9670;# =  0 tai 3 avainkorttia viidestä
+|
+|
+
+|
+| 5 [red]#&hearts;# = 2 tai 5 avainkorttia viidestä ja ei valttirouvaa
+|
+|
+
+|
+| 5 &spades; = 2 tai 5 avainkorttia viidestä ja valttirouva
+|
+|
+
+|===
+
+== 1NT - puolustus
+
+
+
+|===
+| Vastustaja | Me | Jatko
+
+| 1NT
+| Dbl = 16+
+|
+
+|
+| 2&clubs; = ylävärit vähintään 5-4, 9+
+| 2 !d = yhtä pitkät ylävärit, valitse
+
+|
+| 2 [red]#&#9670;# = 6k yläväri, 9+
+| Kuten Multi-avauksessa: 2yv
+
+|
+| 2 [red]#&hearts;# = 4 [red]#&hearts;# + 5k alaväri
+|
+
+|
+| 2 &spades; = 4 &spades;  + 5k alaväri
+|
+|===
+
+
+
+
 
 
 
