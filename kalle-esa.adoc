@@ -292,7 +292,7 @@ Alla esimerkki, jossa vastaaja tekee täyspelin vaatimuksen.
 
 
 
-== 1NT-jatkot
+== 1NT - jatkot
 
 |===
 |Avaus | Vastaus | Avaaja 2. | Vastaaja 2.
