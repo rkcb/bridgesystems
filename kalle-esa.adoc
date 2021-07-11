@@ -371,6 +371,48 @@ Alla esimerkki, jossa vastaaja tekee täyspelin vaatimuksen.
 
 |===
 
+== Vastaukset avaukseen 2 &clubs;
+
+
+|===
+| Avaus | Vastaus | Avaaja 2. | Vastaaja 2.
+
+| 2 &clubs;
+| 2 [red]#&#9670;# = 0+, odottava
+| 2NT = tasainen 22-24
+| Kuten 2NT-avauksessa
+
+
+|
+| 2 [red]#&hearts;# = 5+ [red]#&hearts;# , 8+
+|
+|
+
+|
+| 2 &spades; = 5+ &spades; , 8+
+|
+|
+
+|
+|2NT = 8+, tasainen
+| väritarjous kertoo 5k värin +
+  3NT = tasainen 22-24p +
+  4NT= 25-26p
+|
+
+|
+|3 &clubs; = 5+ &clubs; , 8+
+|
+|
+
+|
+| 3 [red]#&#9670;# = 5+ [red]#&#9670;# , 8+
+|
+|
+
+|===
+
+
 == Kun vastustaja välitarjoaa
 
 Alla tarjoukset esimerkein. Muut tapaukset käsitellään
@@ -397,10 +439,44 @@ vastaavasti.
 
 |===
 
+== RKCB
 
+Tarjous 4NT kysyy montako avainkorttia vastaajalla on viidestä. Jos vastaus
+ei kerro onko valttirouvaa, niin alin vapaa väri alle valttivärin kysyy valttirouvaa, mihin valttivärin tarjoaminen
+viiden tasolla kertoo, että ei ole rouvaa. Muut tarjoukset lupaavat valttirouvan ja sivukuninkaan tarjotussa värissä.
+Jos valttirouva löytyy, niin seuraava 5NT kertoo, että meillä on kaikki avainkortit, minkä jälkeen tarjotaan sivukuninkaita vuorotellen alhaalta alkaen ja alle valttivärin.
 
+|===
+| Ässäkysely | Vastaus | Kysyjän 2. tarjous | Vastaajan toinen
 
+| 4NT
+| 5 &clubs; = 1 tai 4 avainkorttia viidestä
+| 5 [red]#&#9670;# = kysyy rouvaa, jos ruutu ei ole valttia
+|
 
+|
+| 5 [red]#&#9670;# = 0 tai 3 avainkorttia viidestä
+|
+|
+
+|
+| 5 [red]#&hearts;# = 2 tai 5 avainkorttia viidestä ja ei valttirouvaa
+|
+|
+
+|
+| 5 &spades; = 2 tai 5 avainkorttia viidestä ja valttirouva
+|
+|
+
+|===
+
+== Merkinannot
+
+- Lähdöt 1. tai 3. tai 5.
+- Kuninkaalle näytetään pituutta valttipelissä
+- 1. sakaus Italialainen
+- Lavinthali
 
 
 
