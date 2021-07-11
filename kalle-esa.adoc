@@ -371,7 +371,7 @@ Alla esimerkki, jossa vastaaja tekee täyspelin vaatimuksen.
 
 |===
 
-== Vastaukset avaukseen 2 &clubs;
+==  2 &clubs; - jatkot
 
 
 |===
@@ -409,6 +409,52 @@ Alla esimerkki, jossa vastaaja tekee täyspelin vaatimuksen.
 | 3 [red]#&#9670;# = 5+ [red]#&#9670;# , 8+
 |
 |
+
+|===
+
+== 2NT - jatkot
+
+|===
+| Avaus | Vastaus | Avaaja 2. | Vastaajan 2.
+
+| 2NT
+| 3 &clubs; = Stayman
+| 3 [red]#&#9670;# = ei 4k yv
+| 3 [red]#&hearts;# = 5+ [red]#&hearts;# 4 &spades;  +
+ 4 &clubs; = 5+ &clubs; , tpv, avaajan uusi väri kertoo cuen ja tuen. +
+ 4 [red]#&#9670;# = 5+ [red]#&#9670;# , tpv, avaajan uusi väri on cue ja tuki
+
+|
+| 3 [red]#&#9670;# = 5+ [red]#&hearts;# , siirto
+| 4 [red]#&hearts;# = 4+ [red]#&hearts;# ja maksimi
+|
+
+|
+| 3 [red]#&hearts;# = 5+ &spades;, siirto
+| 4 &spades; = 4+ &spades; maksimi
+|
+
+|
+| 3 &spades; = alavärikysely, lupaa av:t, slammihakuinen
+| 3NT = ei 4k av
+|
+
+|
+| 4 &clubs; = Gerber
+|
+|
+
+|
+| 4 [red]#&#9670;# = 6+ [red]#&hearts;# , siirto
+|
+|
+
+|
+| 4 [red]#&hearts;# = 6+ &spades;, siirto
+|
+|
+
+
 
 |===
 
