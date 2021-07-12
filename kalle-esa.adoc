@@ -217,7 +217,7 @@ Sopimus on voimassa kahdennuksen jälkeenkin, mutta ei muuten.
 
 
 
-=== Xyz
+=== Xyz eli 1x - 1y - 1z - jatkot
 
 Xyz-sopimuksella tarjotaan aina kaikki tasaiset ja oman värin
 inviitit, jossa sarja on alkanut 1x - 1y - 1z. Sopimus ei ole voimassa, jos vastustaja tekee muuta kuin
