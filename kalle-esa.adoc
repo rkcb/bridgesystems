@@ -479,12 +479,16 @@ vastaavasti.
 | 1 [red]#&hearts;#
 | Dbl = 4 &spades;, 7+ +
 1 &spades; = 5+ &spades;, 6+ +
-1NT = 6 - 10 +
+1NT = 6 - 10 ja pito hertassa +
 2 &clubs; = 5+ &clubs;, 11+ +
 2 [red]#&#9670;# = 4+, 6 - 10 +
 2 [red]#&hearts;# = 4+ [red]#&#9670;#, 11+ +
 2NT = pito hertassa, 11-12, ei tukea +
 3 [red]#&hearts;# = 0-1 [red]#&hearts;#, 4+[red]#&#9670;#, usein slammihakuinen, tpv
+
+|
+|
+|
 
 
 |===
