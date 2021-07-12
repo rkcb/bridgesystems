@@ -62,16 +62,7 @@
 | 4 &spades; = 7 -8 &spades; , 6 - 10
 |
 
-
-
-
-
-
-
-
 |===
-
-
 
 == Yhden tason avausten jatkoja
 
@@ -530,27 +521,52 @@ vastaavasti.
 | 1 &clubs; = 2+ &clubs;
 | 2 &clubs; =  5&spades; ja 5k alaväri, 10+
 | Pass tai alle 2NT
-| 2NT = kysyy alaväriä ja muut luonnollisia 5k värejä
+| 2NT = kysyy alaväriä ja muut tarjoamattomat värit ovat luonnollisia 5k värejä
 
 | 1 [red]#&#9670;# = 2+ [red]#&#9670;#
 | 2 [red]#&#9670;# = 5&spades; ja 5k alaväri, 10+
 | Pass tai alle 2NT
-| 2NT = kysyy alaväriä ja muut luonnollisia 5k värejä
+| 2NT = kysyy alaväriä ja muut tarjoamattomat värit ovat luonnollisia 5k värejä
 
 | 1 [red]#&hearts;# = 2+ [red]#&hearts;#
 | 2 [red]#&hearts;# = 5&spades; ja 5k alaväri, 10+
 | Pass tai alle 2NT
-| 2NT = kysyy alaväriä ja muut luonnollisia 5k värejä
+| 2NT = kysyy alaväriä ja muut tarjoamattomat värit ovat luonnollisia 5k värejä
 
 | 1 &spades; = 2+ &spades;
 | 2 &spades; = 5+ [red]#&hearts;# ja 5k av
 | Pass tai alle 2NT
-| 2NT = kysyy alaväriä ja muut luonnollisia 5k värejä
+| 2NT = kysyy alaväriä ja muut tarjoamattomat värit ovat luonnollisia 5k värejä
 
 
 |===
 
 === Unusual 2NT
+
+Vastustaja on avannut yhden tasolla väritarjouksen, joka lupaa vähintään
+kaksi korttia. Vain välittömästi tämän jälkeen tarjottu 2NT lupaa
+kaksi alinta tarjoamatonta väriä 5-5 ja 10+. Balanssipaikassa tarjottu 2NT
+eli (1x) - Pass - (Pass) - 2NT on luonnollinen tasainen 19-22p.
+
+=== (1NT) - puolustus
+
+
+
+|===
+| Vastustaja | ME
+
+| 1NT
+| Dbl = 16+, rankkariluontoinen +
+  2 &clubs; = ylävärit 5-4, 9+ +
+  2 [red]#&#9670;# = jompikumpi yläväri ja 9+; partnerin 2 [red]#&hearts;#  on passaa tai korjaa +
+  2 [red]#&hearts;# = 5+ [red]#&hearts;# ja 4k av, 9+; 2NT partnerilta kysyy alaväriä +
+  2 &spades; = 5+ &spades; ja 4k av, 9+ ; partnerin 2NT kysyy alaväriä +
+  2NT = alavärit 5-5, 9+
+
+
+|===
+
+
 
 == RKCB
 
