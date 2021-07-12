@@ -557,12 +557,21 @@ eli (1x) - Pass - (Pass) - 2NT on luonnollinen tasainen 19-22p.
 
 | 1NT
 | Dbl = 16+, rankkariluontoinen +
-  2 &clubs; = ylävärit 5-4, 9+ +
-  2 [red]#&#9670;# = jompikumpi yläväri ja 9+; partnerin 2 [red]#&hearts;#  on passaa tai korjaa +
-  2 [red]#&hearts;# = 5+ [red]#&hearts;# ja 4k av, 9+; 2NT partnerilta kysyy alaväriä +
-  2 &spades; = 5+ &spades; ja 4k av, 9+ ; partnerin 2NT kysyy alaväriä +
-  2NT = alavärit 5-5, 9+
 
+|
+| 2 &clubs; = ylävärit 5-4, 9+ +
+
+|
+| 2 [red]#&#9670;# = jompikumpi yläväri ja 9+; partnerin 2 [red]#&hearts;#  on passaa tai korjaa +
+
+|
+| 2 [red]#&hearts;# = 5+ [red]#&hearts;# ja 4k av, 9+; 2NT partnerilta kysyy alaväriä +
+
+|
+| 2 &spades; = 5+ &spades; ja 4k av, 9+ ; partnerin 2NT kysyy alaväriä +
+
+|
+| 2NT = alavärit 5-5, 9+
 
 |===
 
