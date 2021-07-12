@@ -441,8 +441,12 @@ Alla esimerkki, jossa vastaaja tekee täyspelin vaatimuksen.
 
 |
 | 4 &clubs; = Gerber
-|
-|
+| 4  [red]#&#9670;# = 0 / 4 ässää +
+  4 [red]#&hearts;# = 1 ässä +
+  4 &spades; = 2 ässää +
+  4 &spades; = 3 ässää
+| 4NT = pysäytys +
+5 &clubs; = kysyy kuninkaat edelliseen tapaan
 
 |
 | 4 [red]#&#9670;# = 6+ [red]#&hearts;# , siirto
