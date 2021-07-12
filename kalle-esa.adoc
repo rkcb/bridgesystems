@@ -575,6 +575,29 @@ eli (1x) - Pass - (Pass) - 2NT on luonnollinen tasainen 19-22p.
 
 |===
 
+=== Puolustustarjouksia esimerkein
+
+
+|===
+| Vastustaja | Minä | 2. Vastustaja | Partneri
+
+| 1 [red]#&#9670;# = 2+ [red]#&#9670;#
+| Dbl = 12+ ja 0-2 [red]#&#9670;#  avausvärissä ja 3+ tarjoamattomissa väreissä
+| Pass
+| 1 [red]#&hearts;# = paras väri, 0 - 7p +
+  1 &spades; = paras väri, 0 - 7p +
+  1NT = ruutupito, 6 - 10p +
+  2 &clubs; = paras väri, 0 - 7p +
+  2 [red]#&#9670;# = molemmat ylävärit ja voimaa 11+ +
+  2 [red]#&hearts;# = 4+ [red]#&hearts;# , 8 - 11p +
+  2NT = ruutupito ja 11-12p +
+  3 &clubs; = 4+ &clubs; , 8 - 11p +
+  3 [red]#&#9670;# = 4+ [red]#&#9670;# , 8 - 11p +
+  3 [red]#&hearts;# = 5+ [red]#&hearts;# , tpv
+
+
+|===
+
 
 
 == RKCB
