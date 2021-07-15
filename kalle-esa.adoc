@@ -73,12 +73,12 @@
 1 [red]#&hearts;# = 4+&spades;, 6+p, +
 1 &spades; = 4+[red]#&#9670;#, 6+p +
 1 NT = tas. ei 4k yv, 6-10p,  +
-2 [red]#&#9670;# = 5+ &clubs; yleensä tasaisehko, 4k yv, tpv +
+2 [red]#&#9670;# = 5+ &clubs; yleensä tasaisehko,  tpv +
 2&clubs; = 5+&clubs;, ei 4k yv., yleensä epätas. 5-10p +
 2NT = tasainen, ei 4k yv, 11-12p +
 3&clubs; = 5+&clubs;, ei 4k yv., yleensä epätas. 11-12p +
 3 [red]#&#9670;# / 3 [red]#&hearts;# / 3&spades; = 5+&clubs; ei 4k yv, 0-1 tarjouttua väriä, tpv
-4+ &clubs; = 5+ &clubs; ei 4k yv, esto +
+4+ &clubs; = 5+ &clubs; ei 4k yv, esto
 | 1 [red]#&#9670;#, 1 [red]#&hearts;#  katso <<_transfer_walsh>>
 
 |1 [red]#&#9670;# = 4+[red]#&#9670;#, 11+p +
@@ -583,6 +583,7 @@ eli (1x) - Pass - (Pass) - 2NT on luonnollinen tasainen 19-22p.
 
 | 1 [red]#&#9670;# = 2+ [red]#&#9670;#
 | Dbl = 12+ ja 0-2 [red]#&#9670;#  avausvärissä ja 3+ tarjoamattomissa väreissä
+tai jako vapaa ja 18+
 | Pass
 | 1 [red]#&hearts;# = paras väri, 0 - 7p +
   1 &spades; = paras väri, 0 - 7p +
@@ -594,6 +595,16 @@ eli (1x) - Pass - (Pass) - 2NT on luonnollinen tasainen 19-22p.
   3 &clubs; = 4+ &clubs; , 8 - 11p +
   3 [red]#&#9670;# = 4+ [red]#&#9670;# , 8 - 11p +
   3 [red]#&hearts;# = 5+ [red]#&hearts;# , tpv
+
+|
+| 1NT = 15 - 18, ruutupito
+| Pass
+| 1NT-avaussysteemi voimassa
+
+|
+| 1NT = 15 - 18, ruutupito
+| Dbl = rankkari
+| värit luonnollisia
 
 
 |===
