@@ -162,19 +162,34 @@ Transfer Walsh on voimassa kahdennuksen jälkeenkin.
 === Lisää 2/1-sarjoista esimerkein
 
 Alla esimerkkejä sarjoista, joiden kanssa analogiset sarjat
-saavat saman merkityksen.
+saavat saman merkityksen. Avaajan toinen tarjous kertoo
 
 |===
 |Avaus | Vastaus | Avaaja 2. | Vastaaja 2.
 
 | 1 [red]#&hearts;#
 | 2&clubs;
-| 2 [red]#&hearts;# = min ja ei sivupitoja tai 17+
+| 2 [red]#&hearts;# = min ja ei sivupitoja tai 17+, ei lupaa 6k  [red]#&hearts;#  +
 |
 
 |
 |
+| 2 &spades; = 4+ &spades; , 15+
 |
+
+|
+|
+| 2NT = tasaisehko, pidot tarjoamattomissa väreissä, 11-14 tai 17+
+|
+
+|
+|
+| 3 [red]#&hearts;# = 6+ [red]#&hearts;# , 15 - 16
+|
+
+|
+|
+| 3 &clubs; = 4+ &clubs; , 15+
 |
 
 |===
@@ -511,6 +526,18 @@ vastaavasti.
 |===
 
 == Puolustustarjouksia
+
+
+|===
+| Vastustaja  | Minä   | 2. Vastustaja | Partneri
+
+| 1 [red]#&#9670;# = 2+ [red]#&#9670;#
+| Dbl = 3+k tarjoamattomissa 0-2 [red]#&#9670;#, 12+
+  tai vapaa jako ja 18+
+|
+|
+
+|===
 
 === Michael's cue
 
