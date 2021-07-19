@@ -527,6 +527,7 @@ vastaavasti.
 
 == Puolustustarjouksia
 
+=== Luonnollisia välitarjouksia
 
 |===
 | Vastustaja  | Minä   | 2. Vastustaja | Partneri
@@ -534,8 +535,57 @@ vastaavasti.
 | 1 [red]#&#9670;# = 2+ [red]#&#9670;#
 | Dbl = 3+k tarjoamattomissa 0-2 [red]#&#9670;#, 12+
   tai vapaa jako ja 18+
+| Pass
+| 1 [red]#&hearts;# = preffi, 0+ +
+  1NT = ruutupito,  6 - 10 +
+  2 [red]#&hearts;# = 4+ [red]#&hearts;#, 8 - 11 +
+  2NT = ruutupito, 11 - 12
+
+|
+| 1 [red]#&hearts;# = 5+ [red]#&hearts;# , 8+
+| Pass
+| 1 &spades; = 5+ &spades; , hyvä väri, vaatimus, 9+ +
+ 1NT = ruutupito, 9 - 11 +
+ 2 [red]#&#9670;# = 3+ [red]#&hearts;#, 11+ +
+ 3 [red]#&#9670;# = 0-1 [red]#&#9670;# , 4+ [red]#&hearts;#, 13+
+
+|
+| 1 &spades; = 5+ &spades; , 8+
 |
 |
+
+|
+| 1NT = ruutupito ja 15 - 18p
+| Pass
+| Jatkot täsmälleen, kuten avauksessa: <<1NT - jatkot>>
+
+
+|
+| 1NT = ruutupito ja 15 - 18p
+| Dbl = rankkari
+| luonnolliset jatkot, uusi väri lupaa 4k
+
+|
+| 2&clubs; = 5+&clubs;, 12+
+|
+|
+
+|
+| 2 [red]#&hearts;# = 6+ [red]#&hearts;# , esto
+|
+|
+
+|
+| 2 &spades; = 6+ &spades; , esto
+|
+|
+
+|
+| 3 &clubs; = 6+ &clubs; , esto
+|
+|
+
+
 
 |===
 
