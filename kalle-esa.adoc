@@ -531,8 +531,7 @@ Pelaamme Lebensohlia kolmessa paikassa:
 
 1. Kun 1NT-avaustamme häiritään.
 2. Kun avaajamme tekee reversen.
-3. Kun vastaamme partnerin kahdennukseen, kun avaus
-   tapahtui tasolla kaksi
+3. Kun vastaamme partnerin kahdennukseen sarjassa (2x) - Dbl - (Pass) - ?
 
 Kaikissa Lebensohl-tapauksissa ko. sopimus tekee tarjoamisen
 huomattavasti helpommaksi, kun ei tarvitse arvailla voimaa
