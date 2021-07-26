@@ -70,7 +70,7 @@
 | Avaus  | Vastaus | Jatko
 | 1 &clubs; = 2+&clubs;, 11+p
 |1 [red]#&#9670;# = 4+[red]#&hearts;# 6+p, +
-1 [red]#&hearts;# = 4+&spades;, 6+p, +
+1 [red]#&hearts;# = 4 +&spades;, 6+p, +
 1 &spades; = 4+[red]#&#9670;#, 6+p +
 1 NT = tas. ei 4k yv, 6-10p,  +
 2 [red]#&#9670;# = 5+ &clubs; yleensä tasaisehko,  tpv +
@@ -82,7 +82,7 @@
 | 1 [red]#&#9670;#, 1 [red]#&hearts;#  katso <<_transfer_walsh>>
 
 |1 [red]#&#9670;# = 4+[red]#&#9670;#, 11+p +
-|1 [red]#&hearts;# = 4+[red]#&hearts;#, 6+p +
+|1 [red]#&hearts;# = 4+[red]#&hearts;#,  6+p +
 1 &spades; = 4+&spades;, 6+p +
 1NT = ei 4k yv, 6-10p +
 2&clubs; = 4+&clubs;, tpv +
@@ -93,7 +93,7 @@
 | 2 [red]#&hearts;# = 5+ [red]#&hearts;#, min +
 
 | 1 [red]#&hearts;# = 5+[red]#&hearts;#, 11+p
-| 1 &spades; = 4+[red]#&hearts;#, 6+p +
+| 1 &spades; = 4+ &spades; , 6+p +
 1NT = ei 3 [red]#&hearts;#, 6 - 11(12)p +
 2&clubs; = 4+&clubs; tpv +
 2 [red]#&#9670;# = 4+&clubs; tpv +
@@ -524,6 +524,18 @@ vastaavasti.
 
 
 |===
+
+== Lebensohl kolmeen tilanteeseen
+
+Pelaamme Lebensohlia kolmessa paikassa:
+
+1. Kun 1NT-avaustamme häiritään.
+2. Kun avaajamme tekee reversen.
+3. Kun vastaamme partnerin kahdennukseen, kun avaus
+   tapahtui tasolla kaksi.
+
+
+
 
 == Puolustustarjouksia
 
