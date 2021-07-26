@@ -532,10 +532,47 @@ Pelaamme Lebensohlia kolmessa paikassa:
 1. Kun 1NT-avaustamme häiritään.
 2. Kun avaajamme tekee reversen.
 3. Kun vastaamme partnerin kahdennukseen, kun avaus
-   tapahtui tasolla kaksi.
+   tapahtui tasolla kaksi
+
+Kaikissa Lebensohl-tapauksissa ko. sopimus tekee tarjoamisen
+huomattavasti helpommaksi, kun ei tarvitse arvailla voimaa
+eikä tarvitse pelätä partnerin passia liian aikaisin tai vastaavasti
+ylitarjoamista. Tähän sopimukseen lisätään yksityiskohtia myöhemmin.
+
+=== 1NT-avauksen jälkeen
+
+Esim. 1NT - (2x) - 2NT = Lebensohl ja pyytää tarjoamaan 3 &clubs;.
+Yllä 2x on kahden tason väritarjous, mahdollisesti keinotekoinen.
+
+=== Reversen jälkeen
+
+Esim. 1 &clubs; - 1  [red]#&hearts;# ; 2  [red]#&hearts;#  - 2NT = Lebensohl ja pyytää
+tarjoamaan 3 &clubs; Jos avaaja ei tarjoa 3 &clubs; , niin hänellä maksimivoima
+ja halu pelata täyspeliä vastaajan minimiä vastaan.
+
+
+|===
+|Avaaja | Vastaaja | Avaajan 2. | vastaajan 2.
+
+| 1 &clubs;
+| 1 &spades;
+| 2 [red]#&hearts;#
+| 2 &spades; = 5+ &spades; , tpv, 8+ +
+2NT = Lebensohl, pyytää 3 &clubs; +
+3 &clubs; = 3+ &clubs; , tpv +
+3 [red]#&#9670;# = 4. väri, tpv +
+3 [red]#&hearts;# = 4+ [red]#&hearts;# , slammihakuinen tpv +
+3NT = pelattavaksi +
+4 [red]#&hearts;# = 4+ [red]#&hearts;#, 8-11
+
+|===
 
 
 
+=== Kahdennukseen vastatessa
+
+Esim. (2 [red]#&hearts;# ) - Dbl - (Pass) - 2NT = Lebensohl ja pyytää
+tarjoamaan 3 &clubs; .
 
 == Puolustustarjouksia
 
