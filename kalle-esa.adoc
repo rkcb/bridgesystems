@@ -744,7 +744,7 @@ Gerber on voimassa vain seuraavissa tilanteissa:
 Alla Gerber-vastaukset.
 
 |===
-|Kysyjä | Vastaaja | Kysyjän 2. | Vastaajan 2.
+|Kysyjä | Vastaaja | Kysyjän 2. | Vastaajan 2. | Kysyjän 3.
 
 | 4 &clubs; = kysyy ässien lkm
 | 4 [red]#&#9670;# = 0 / 4 +
@@ -752,6 +752,7 @@ Alla Gerber-vastaukset.
 4 &spades; = 2 +
 4NT = 3
 | 4NT = loppusitoumus +
+|
 |
 
 |
@@ -764,6 +765,7 @@ Alla Gerber-vastaukset.
 5 [red]#&hearts;# = 1 +
 5 &spades; = 2 +
 5NT = 3
+| 5NT = loppusitoumus
 |===
 
 
