@@ -735,7 +735,7 @@ tai jako vapaa ja 18+
 
 Gerber on voimassa vain seuraavissa tilanteissa:
 
-- 1NT - 4 &clubs;
+- 1NT - 4 &clubs; (missä 1NT voi myös olla välitarjous)
 - 2NT - 4 &clubs;
 - 1x - 1y; 2NT - 4 &clubs;, missä x ja y ovat värejä
 - 2 &clubs; - 2x; 2NT - 4 &clubs;, missä x ja y ovat värejä
