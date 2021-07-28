@@ -489,7 +489,12 @@ Vastaukset ovat voimassa vain, kun vastustaja on passannut tai kahdentanut.
 == Kun vastustaja välitarjoaa
 
 Alla tarjoukset esimerkein. Muut tapaukset käsitellään
-vastaavasti.
+vastaavasti. Kun 2NT-tarjouksen jälkeen halutaan vähintään
+inviittivoimalla tarjota oma 5k väri tai näyttää tuki partnerille,
+niin käytämme alempaa vastustajan tarjoamaa väriä tarjoamaan jäljelle jäävistä
+väreistä alempaa ja vastustajan ylempää väriä vastaavasti ylempään.
+Esimerkki. Sarjassa 1 &clubs; - (2NT) em. jäljelle jäävät värit eli
+risti ja pata tarjotaan vastaavasti ruudulla ja hertalla.
 
 |===
 | Avaaja | Vastustaja | Vastaaja
@@ -517,7 +522,14 @@ vastaavasti.
   2NT = 11-12, inviitti ja ristipito +
   3 &clubs; = 4+ [red]#&#9670;# , 11+, vaatimus +
 
-
+|
+| 2NT = unusual 2NT
+| Dbl = 11+, pidot vast. väreissä +
+3 &clubs; = 4+ [red]#&#9670;# , 11+ +
+3 [red]#&#9670;# = 4+ [red]#&#9670;#,  7-10 +
+3 [red]#&hearts;# = 5+ &spades; , 11+ +
+3NT = pelattavaksi, 13-16 +
+4 &clubs;, 4 [red]#&hearts;# = 0-1 värissä ja 4+ [red]#&#9670;# , slammitriali
 
 
 |===
