@@ -70,7 +70,7 @@
 | Avaus  | Vastaus | Jatko
 | 1 &clubs; = 2+&clubs;, 11+p
 |1 [red]#&#9670;# = 4+[red]#&hearts;# 6+p, +
-1 [red]#&hearts;# = 4 +&spades;, 6+p, +
+1 [red]#&hearts;# = 4+  &spades; , 6+p, +
 1 &spades; = 4+[red]#&#9670;#, 6+p +
 1 NT = tas. ei 4k yv, 6-10p,  +
 2 [red]#&#9670;# = 5+ &clubs; yleensä tasaisehko,  tpv +
