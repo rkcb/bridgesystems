@@ -101,8 +101,8 @@
 2NT = 4+ [red]#&hearts;#, <<Jacoby 2NT>>, tpv +
 3&clubs; = 6+&clubs;, 0-2 [red]#&hearts;#, 11-12p +
 3 [red]#&#9670;# = 6+ [red]#&#9670;#, 0-2 [red]#&hearts;#, 11-12p +
-3 [red]#&hearts;# = 3+ [red]#&hearts;#, inviitti, 10-12p, +
 3&spades; / 4 &clubs; / 4 [red]#&#9670;# = 4+ [red]#&hearts;#, splintteri, 0-1 tarjottua väriä, 11-15p (paremmalla 2NT) +
+3 [red]#&hearts;# = 3+ [red]#&hearts;#, inviitti, 10-12p, +
 4 [red]#&hearts;# = 5+[red]#&hearts;#, esto,  0 - 8p +
 4&spades; = 7+ &spades;, pelattavaksi, enintään 10p +
 |
@@ -219,9 +219,6 @@ Sopimus on voimassa kahdennuksen jälkeenkin, mutta ei muuten.
 4 &spades; = minimi
 
 |===
-
-
-
 
 === Xyz eli 1x - 1y - 1z - jatkot
 
@@ -734,6 +731,40 @@ tai jako vapaa ja 18+
 
 |===
 
+== Gerber
+
+Gerber on voimassa vain seuraavissa tilanteissa:
+
+- 1NT - 4 &clubs;
+- 2NT - 4 &clubs;
+- 1x - 1y; 2NT - 4 &clubs;, missä x ja y ovat värejä
+- 2 &clubs; - 2x; 2NT - 4 &clubs;
+- 2 &clubs; - 2NT; 4 &clubs;
+
+Alla Gerber-vastaukset.
+
+|===
+|Kysyjä | Vastaaja | Kysyjän 2. | Vastaajan 2.
+
+| 4 &clubs; = kysyy ässien lkm
+| 4 [red]#&#9670;# = 0 / 4 +
+4 [red]#&hearts;# = 1 +
+4 &spades; = 2 +
+4NT = 3
+| 4NT = loppusitoumus +
+|
+
+|
+| 4 [red]#&#9670;# = 0 / 4 +
+4 [red]#&hearts;# = 1 +
+4 &spades; = 2 +
+4NT = 3
+| 5 &clubs; = kysyy kuninkaiden lkm
+| 5 [red]#&#9670;# = 0 / 4 +
+5 [red]#&hearts;# = 1 +
+5 &spades; = 2 +
+5NT = 3
+|===
 
 
 == RKCB
@@ -773,18 +804,4 @@ Jos valttirouva löytyy, niin seuraava 5NT kertoo, että meillä on kaikki avain
 - Lähdöt 1. tai 3. tai 5.
 - Kuninkaalle näytetään pituutta valttipelissä
 - 1. sakaus Italialainen
-- Lavinthali
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Lavinthal
