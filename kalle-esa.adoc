@@ -350,7 +350,7 @@ Alla esimerkki, jossa vastaaja tekee täyspelin vaatimuksen.
 |
 
 |
-| 4&clubs; = Gerber
+| 4&clubs; = <<_gerber>>
 | 4 [red]#&#9670;# = 0 / 4 +
 4 [red]#&hearts;# = 1 +
 4 &spades; = 2 +
