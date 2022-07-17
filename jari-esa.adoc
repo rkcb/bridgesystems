@@ -379,16 +379,13 @@ vastaavasti.
 | 4NT
 | 5 &clubs; = 1 tai 4 avainkorttia viidestä
 | 5 [red]#&#9670;# = kysyy rouvaa, jos ruutu ei ole valttia
-|
 
 |
 | 5 [red]#&#9670;# =  0 tai 3 avainkorttia viidestä
 |
-|
 
 |
 | 5 [red]#&hearts;# = 2 tai 5 avainkorttia viidestä ja ei valttirouvaa
-|
 |
 
 |
@@ -401,7 +398,6 @@ vastaavasti.
 == 1NT - puolustus
 
 
-
 |===
 | Vastustaja | Me | Jatko
 
@@ -411,7 +407,7 @@ vastaavasti.
 
 |
 | 2&clubs; = ylävärit vähintään 5-4, 9+
-| 2 !d = yhtä pitkät ylävärit, valitse
+| 2  [red]#&#9670;#  = yhtä pitkät ylävärit, valitse
 
 |
 | 2 [red]#&#9670;# = 6k yläväri, 9+
@@ -424,6 +420,7 @@ vastaavasti.
 |
 | 2 &spades; = 4 &spades;  + 5k alaväri
 |
+
 |===
 
 == Puolustustarjouksia
@@ -436,30 +433,17 @@ vastaavasti.
 
 | 1 &clubs; = 2+ &clubs;
 | 2 &clubs; = ylävärit 5-5, avausvoima
-| 3 &clubs; = inviitti hertassa +
-  3  [red]#&#9670;#  = inviitti padassa
+| 3 &clubs; = inv+ hertassa +
+  3  [red]#&#9670;#  = inv+ padassa
 
 | 1 [red]#&#9670;# = 2+ [red]#&#9670;#
 | 2 [red]#&#9670;# = ylävärit 5-5, avausvoima
-| 3 &clubs; = inviitti hertassa +
+| 3 &clubs; = inv+ hertassa +
+ 3 [red]#&#9670;# = inv+ padassa +
 |===
 
+=== Unusual 2NT
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Hyppäävä 2NT välitarjous lupaa alimmat tarjoamattomat värit 5-5.
 
 
