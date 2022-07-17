@@ -354,15 +354,13 @@ on kolme tarjousta ja jatko on seuraava.
 |
 |===
 
-
-
-
 == Kun vastustaja välitarjoaa
 
 === Tukikahdennus
 
-Avaaja näyttää vastaajan yläväritarjoukseen 3k tuen kahdennuksella,
-jos se on mahdollista kahden tasolla.
+Avaaja näyttää vastaajan yläväritarjoukseen 3k tuen kahdennuksella. Jos
+tukikahdennus tehdään kolmen tasolla, niin se lupaa lisävoimaa ollen
+mahdollisesti rankkariluonteinen.
 
 === Esimerkkejä
 
