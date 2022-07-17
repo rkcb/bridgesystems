@@ -114,7 +114,17 @@
 
 |===
 
+=== Hyppysangin jälkeen
 
+|===
+| Alku | Vastaajan 2.
+
+| 1x - 1y - 2NT = hyppysangi
+| 3 &clubs; = ruutusiirto +
+  3 [red]#&hearts;# = patasiirto +
+  3 &spades; = ristisiirto +
+  4 &clubs; = Gerber!
+|===
 
 
 
