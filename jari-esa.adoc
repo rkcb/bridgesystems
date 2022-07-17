@@ -63,6 +63,22 @@
 
 |===
 
+=== 2/1-sarjoja
+
+
+|===
+| Alku | Avaajan 2.
+
+| 1 &spades; - 2 &clubs;
+| 2 &spades; = min tai 15-16, ei lupaa lisäpituutta +
+  2NT = sivupidot, 12+ +
+  3 &clubs; = ei lyhyyttä, ekstraa +
+  3 [red]#&#9670;# = tuki, lyhyys ruudussa, ekstraa +
+  3 [red]#&hearts;# = tuki, lyhyys hertassa, ekstraa +
+  3 &spades; = 6+ &spades; ekstraa
+|===
+
+
 === Yläväritrialit
 
 ==== ruutuavauksen jälkeen
@@ -148,7 +164,27 @@
 
 |===
 
+=== Solowayn vahvat hypyt
 
+http://kwbridge.com/js.htm
+
+Soloway-hypyt ovat yksinkertaisia hyppyjä uudessa värissä.
+Hyppääjällä on joku seuraavista käsityypeistä:
+
+1. Vahva 6+k vahva väri, jossa kaksi toppikuvaa kolmesta, 17 - 19
+2. Oma pitkä solidi väri (AKQ)ja hyvät kontrollit, 13-16
+3. Vahva 5k väri, 5x332, 17-19
+4. Oma hyvä 5k väri ja tuki avausväriin. Hyppääjä kertoo tässä tapauksessa
+missä lyhyys on, jos mahdollista.
+
+|===
+|Avaus |Vastaus |Avaajan 2. |Vastaajan 2.
+
+|1 [red]#&#9670;#
+|2 [red]#&hearts;#
+| 2NT = Ei tukea
+|Column 4, row 1
+|===
 
 
 === Transfer Walsh
