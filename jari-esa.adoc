@@ -345,8 +345,31 @@ on kolme tarjousta ja jatko on seuraava.
   3NT = ei lyhyyttä, solidi avausväri
 |===
 
+== Drury vain 3. penkissä
+
+
+|===
+|Avaaja |Vastaaja |Avaajan 2. |Vastaajan 2.
+
+| P - (P) - 1 [red]#&hearts;#
+| 2 &clubs; = 3+ [red]#&hearts;#, inv+
+| 2 [red]#&#9670;# = normaali avaus, min +
+  2 [red]#&hearts;#  = heikko 3. käden avaus +
+  Muut avaajan tarjoukset Kokish-trial-logiikalla
+|
+|===
+
+
+
 
 == Kun vastustaja välitarjoaa
+
+=== Tukikahdennus
+
+Avaaja näyttää vastaajan yläväritarjoukseen 3k tuen kahdennuksella,
+jos se on mahdollista kahden tasolla.
+
+=== Esimerkkejä
 
 Alla tarjoukset esimerkein. Muut tapaukset käsitellään
 vastaavasti.
@@ -374,24 +397,19 @@ vastaavasti.
 
 
 |===
-| Ässäkysely | Vastaus | Kysyjän 2. tarjous | Vastaajan toinen
+| Ässäkysely | Vastaus | Kysyjän 2. tarjous | Vastaajan 2.
 
 | 4NT
-| 5 &clubs; = 1 tai 4 avainkorttia viidestä
-| 5 [red]#&#9670;# = kysyy rouvaa, jos ruutu ei ole valttia
+| 5 &clubs; = 1 tai 4 avainkorttia viidestä +
+  5 [red]#&#9670;# =  0 tai 3 avainkorttia viidestä +
+  5 [red]#&hearts;# = 2 tai 5 avainkorttia viidestä ja ei valttirouvaa
+  5  &spades;  = 2 tai 5 avainkorttia viidestä ja valttirouva
 
-|
-| 5 [red]#&#9670;# =  0 tai 3 avainkorttia viidestä
-|
+| alin vapaa kysyy rouvaa
+| - negatiivi tarjoaa alimman valttitarjouksen +
+  - kuningas tarjotussa värissä ja rouva +
+  - 5NT = rouva, ei kuningasta tarjottavissa alle 6 valttia
 
-|
-| 5 [red]#&hearts;# = 2 tai 5 avainkorttia viidestä ja ei valttirouvaa
-|
-
-|
-| 5 &spades; = 2 tai 5 avainkorttia viidestä ja valttirouva
-|
-|
 
 |===
 
