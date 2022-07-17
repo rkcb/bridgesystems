@@ -174,7 +174,7 @@ Hyppääjällä on joku seuraavista käsityypeistä:
 1. Vahva 6+k vahva väri, jossa kaksi toppikuvaa kolmesta, 17 - 19
 2. Oma pitkä solidi väri (AKQ)ja hyvät kontrollit, 13-16
 3. Vahva 5k väri, 5x332, 17-19
-4. Oma hyvä 5k väri ja tuki avausväriin. Hyppääjä kertoo tässä tapauksessa
+4. Oma hyvä 5k väri ja tuki avausväriin, 16+. Hyppääjä kertoo tässä tapauksessa
 missä lyhyys on, jos mahdollista.
 
 |===
@@ -182,8 +182,16 @@ missä lyhyys on, jos mahdollista.
 
 |1 [red]#&#9670;#
 |2 [red]#&hearts;#
-| 2NT = Ei tukea
-|Column 4, row 1
+| 2NT = tas. minimi ja sivupidot +
+  3 [red]#&#9670;# = lisäpituutta ja voimaa värissä +
+  3 &clubs; / 3  &spades;  = voimaa värissä +
+  3 [red]#&hearts;# = 2+ [red]#&hearts;# , väh. yksi kolmesta toppikuvasta
+| 3 [red]#&#9670;# = 5 [red]#&hearts;#, 4 [red]#&#9670;#, ei lyhyyttä, 16+ +
+3 [red]#&hearts;# = 6+ [red]#&hearts;# , 17 - 19 +
+3 &spades; = patalyhyys ja 5 [red]#&hearts;#, 4 [red]#&#9670;#, 16+ +
+3NT = 5 [red]#&hearts;# 332, 17 - 19 +
+4 [red]#&hearts;# = 6+ [red]#&hearts;# , AKQ hertassa, 13-16
+
 |===
 
 
