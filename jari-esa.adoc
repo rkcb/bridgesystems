@@ -436,6 +436,7 @@ vastaavasti.
 
 == Puolustustarjouksia
 
+
 === Michael's cue
 
 
@@ -457,4 +458,7 @@ vastaavasti.
 
 Hyppäävä 2NT välitarjous lupaa alimmat tarjoamattomat värit 5-5.
 
+=== Leaping Micheael's
 
+Leaping Michael's lupaa hyvän käden ja tarjoamattomat värit
+5-5: ylävärit tai ylävärin ja alavärin.
