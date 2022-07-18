@@ -49,15 +49,15 @@
 
 | 1 &spades; = 5+ &spades;, 11+p
 |1NT = ei tukea, 6-11(12) +
-2&clubs; = 3+&clubs;, ei kiellä 3k tukea, tpv +
-2 [red]#&#9670;# = 4+ [red]#&#9670;#, ei kiellä 3k tukea, tpv +
+2&clubs; = 3+&clubs;, tpv +
+2 [red]#&#9670;# = 4+ [red]#&#9670;#, tpv +
 2 [red]#&hearts;# = 5+ [red]#&hearts;#, tpv +
 2NT = 4+ &spades;, Jacoby 2NT, tpv +
 3 &clubs; = 6+ &clubs;, 0-2 &spades;,  11-12p +
 3 [red]#&#9670;# = 6+ [red]#&#9670;#, 0-2 &spades;, 11-12p +
 3 [red]#&hearts;# = 6+[red]#&hearts;#, 0-2 &spades;, 11-12p +
 3 &spades; = 3+ &spades;, inviitti, 11-12p +
-4 &clubs; / 4 [red]#&#9670;# / 4 [red]#&hearts;# = 4+ &spades;, splintteri, 11-15p +
+4 &clubs; / 4 [red]#&#9670;# / 4 [red]#&hearts;# = splintteri, 11-15p +
 4 &spades; = 5+ &spades;, esto, 0-8p
 |
 
@@ -71,11 +71,11 @@
 
 | 1 &spades; - 2 &clubs;
 | 2 &spades; = min tai 15-16, ei lupaa lisäpituutta +
-  2NT = sivupidot, 12+ +
+  2NT = sivupidot, 12-14 tai 18-19 +
   3 &clubs; = ei lyhyyttä, ekstraa +
   3 [red]#&#9670;# = tuki, lyhyys ruudussa, ekstraa +
   3 [red]#&hearts;# = tuki, lyhyys hertassa, ekstraa +
-  3 &spades; = 6+ &spades; ekstraa
+  3 &spades; = 6+ &spades, 15-16
 |===
 
 
