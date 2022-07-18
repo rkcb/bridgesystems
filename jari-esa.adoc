@@ -12,28 +12,28 @@
 |1 [red]#&#9670;# = 4+[red]#&hearts;# 6+p, +
 1 [red]#&hearts;# = 4+&spades;, 6+p, +
 1 &spades; = 4+[red]#&#9670;#, 6+p +
-1 NT = tas. ei 4k yv, 6-10p,  +
-2 [red]#&#9670;# = 5+ &clubs; yleensä tasaisehko, 4k yv, tpv +
-2&clubs; = 5+&clubs;, ei 4k yv., yleensä epätas. 5-10p +
-2NT = tasainen, ei 4k yv, 11-12p +
-3&clubs; = 5+&clubs;, ei 4k yv., yleensä epätas. 11-12p +
-3 [red]#&#9670;# / 3 [red]#&hearts;# / 3&spades; = 5+&clubs; ei 4k yv, 0-1 tarjouttua väriä, tpv
-4+ &clubs; = 5+ &clubs; ei 4k yv, esto +
+1 NT = tas., 6-10p,  +
+2 [red]#&#9670;# = 5+ &clubs;, criss cross, tpv +
+2&clubs; = 5+&clubs;, yleensä epätas. 5-10p +
+2NT = tasainen, 11-12p +
+3&clubs; = 5+&clubs;, yleensä epätas. 11-12p +
+3 [red]#&#9670;# / 3 [red]#&hearts;# / 3&spades; = splitteri +
+4+ &clubs; = 5+ &clubs; esto
 | 1 [red]#&#9670;#, 1 [red]#&hearts;#  katso Transfer Walsh
 
 |1 [red]#&#9670;# = 4+[red]#&#9670;#, 11+p +
 |1 [red]#&hearts;# = 4+[red]#&hearts;#, 6+p +
 1 &spades; = 4+&spades;, 6+p +
-1NT = ei 4k yv, 6-10p +
+1NT = 6-10p +
 2&clubs; = 4+&clubs;, tpv +
 2 [red]#&#9670;# = 4+ [red]#&#9670;#, 6-10p +
-2NT = tasainen, ei 4k yv, 11-12p +
-3 &clubs; = 4+ [red]#&#9670;# yleensä tasaisehko, ei 4k yv, tpv +
+2NT = tasainen, 11-12p +
+3 &clubs; = 4+ [red]#&#9670;#, criss cross, tpv +
 3 [red]#&#9670;# = 4+ [red]#&#9670;#, yleensä epätas., 11-12p
 | 2 [red]#&hearts;# = 5+ [red]#&hearts;#, min +
 
 | 1 [red]#&hearts;# = 5+[red]#&hearts;#, 11+p
-| 1 &spades; = 4+[red]#&hearts;#, 6+p +
+| 1 &spades; = 4+ &spades; , 6+p +
 1NT = ei 3 [red]#&hearts;#, 6 - 11(12)p +
 2&clubs; = 4+&clubs; tpv +
 2 [red]#&#9670;# = 4+&clubs; tpv +
@@ -42,7 +42,7 @@
 3&clubs; = 6+&clubs;, 0-2 [red]#&hearts;#, 11-12p +
 3 [red]#&#9670;# = 6+ [red]#&#9670;#, 0-2 [red]#&hearts;#, 11-12p +
 3 [red]#&hearts;# = 3+ [red]#&hearts;#, inviitti, 10-12p, +
-3&spades; / 4 &clubs; / 4 [red]#&#9670;# = 4+ [red]#&hearts;#, splintteri, 0-1 tarjottua väriä, 11-15p (paremmalla 2NT) +
+3&spades; / 4 &clubs; / 4 [red]#&#9670;# =  splintteri +
 4 [red]#&hearts;# = 5+[red]#&hearts;#, esto,  0 - 8p +
 4&spades; = 7+ &spades;, pelattavaksi, enintään 10p +
 |
