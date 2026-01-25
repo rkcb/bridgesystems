@@ -81,6 +81,7 @@ body {
   color: var(--primary-color);
   margin-bottom: 15px;
   border: none;
+  text-align: left;
 }
 
 #toc ul {
