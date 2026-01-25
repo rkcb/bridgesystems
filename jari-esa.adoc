@@ -1,6 +1,7 @@
 
 = Esa ja Jari 2/1
 :toc:
+:toc-title: Sisällysluettelo
 
 ++++
 <a href="index.html" class="back-link">← Back to Home</a>
