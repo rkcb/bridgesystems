@@ -28,8 +28,10 @@ jobs:
       
       - name: Convert AsciiDoc to HTML
         run: |
-          asciidoctor *.adoc
-      
+          for file in *.adoc; do
+            asciidoctor -a stylesheet=asciidoc-style.css -a linkcss "$file"
+          done
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
       

@@ -2,6 +2,10 @@
 = Esa ja Jari 2/1
 :toc:
 
+++++
+<a href="index.html" class="back-link">← Back to Home</a>
+++++
+
 == Yhden tason avausten jatkoja
 
 === Perussarjoja
