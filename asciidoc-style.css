@@ -268,10 +268,15 @@ em {
 
   table {
     font-size: 0.9em;
+    width: 100% !important;
   }
 
   th, td {
     padding: 10px 12px;
+  }
+
+  #top table, .top table {
+    width: 100% !important;
   }
 }
 
@@ -300,4 +305,3 @@ em {
 .sectionbody {
   padding-left: 0;
 }
-
