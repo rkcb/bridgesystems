@@ -4,7 +4,7 @@
 :toc-title: Sisällysluettelo
 
 ++++
-<a href="index.html" class="back-link">← Back to Home</a>
+<a href="index.html" class="back-link">← Kaikki systeemit</a>
 ++++
 
 == Yhden tason avausten jatkoja
