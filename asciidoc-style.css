@@ -249,6 +249,11 @@ em {
   color: var(--text-color);
 }
 
+/* Underline */
+.underline {
+  text-decoration: underline;
+}
+
 /* Red text (hearts and diamonds) */
 .red {
   color: var(--accent-color);
