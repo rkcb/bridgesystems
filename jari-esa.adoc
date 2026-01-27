@@ -1,4 +1,3 @@
-
 = Esa ja Jari 2/1
 :toc:
 :toc-title: Sisällysluettelo
@@ -11,6 +10,7 @@
 
 === Perussarjoja
 
+[.top]
 |===
 | Avaus  | Vastaus | Jatko
 | 1 &clubs; = 2+&clubs;, 11+p
