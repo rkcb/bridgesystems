@@ -1,4 +1,3 @@
-
 = Esa ja Kalle 2/1
 :toc:
 :toc-title: Sisällysluettelo
@@ -9,6 +8,7 @@
 
 == Yhden tason avausten jatkoja
 
+[.top]
 |===
 | Avaus  | Vastaus | Jatko
 | 1 &clubs; = 2+&clubs;, 11+p
@@ -349,27 +349,3 @@ Jos valttirouva löytyy, niin seuraava 5NT kertoo, että meillä on kaikki avain
 - udca eli pieni pyytää ja pieni parillinen
 - 1. sakaus Italialainen
 - Lavinthal, kun tilanne soveltuu
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
