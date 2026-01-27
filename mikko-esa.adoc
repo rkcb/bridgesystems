@@ -37,9 +37,9 @@
 
 | 1NT = 15-17, tasainen, 5yv mahdollinen, joskus tasaisehko
 | 2&clubs; = Stayman +
-  2 [red]#&diams;# = Siirto, 5+ [red]#&hearts;# , 0+ +
-  2 [red]#&hearts;#  = Siirto, 5+&spades;, 0+ +
-  2&spades; = Siirto, 6+&clubs; +
+  2 [red]#&diams;# = siirto, 5+ [red]#&hearts;# , 0+ +
+  2 [red]#&hearts;#  = siirto, 5+&spades;, 0+ +
+  2&spades; = siirto, 6+&clubs; +
   2NT = inviitti, 8-9 +
 
 
