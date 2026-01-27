@@ -50,7 +50,7 @@ uusi väri = 5k tarjottu väri, 8+
 | 2 [red]#&diams;#, 2 [red]#&hearts;#, 2&spades; = 6k tarjottu väri, 6-10
 | 2NT kysyy lyhyyttä, värin toisto => ei ole
 
-| 3+ väri = estotarjous
+| 3+ väri = luonnollinen estotarjous
 |
 
 |===
