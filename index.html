@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bridge Bidding Systems</title>
+    <title>Bridgen tarjoussysteemit</title>
     <style>
         * {
             margin: 0;
@@ -15,7 +15,7 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
             color: #333;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #e9ecef;
             min-height: 100vh;
             padding: 20px;
         }
@@ -24,13 +24,13 @@
             max-width: 900px;
             margin: 0 auto;
             background: white;
-            border-radius: 15px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
             overflow: hidden;
         }
 
         header {
-            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            background: #2c3e50;
             color: white;
             padding: 40px 30px;
             text-align: center;
@@ -109,40 +109,46 @@
                 padding: 30px 20px;
             }
         }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 0;
+            }
+            .container {
+                border-radius: 0;
+            }
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>🃏 Bridge Bidding Systems</h1>
-            <p>Select a bidding system to view</p>
+            <h1>Bridgen tarjoussysteemit</h1>
+            <p>Valitse tarjoussysteemi</p>
         </header>
 
         <div class="content">
             <div class="systems-grid">
 
                 <a href="mikko-esa.html" class="system-card">
-                    <div class="icon">♠️</div>
-                    <h2>Esa & <Mikko>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </Mikko></h2>
-                    <p class="subtitle">2/1 System</p>
+                    <h2>Esa & Mikko</h2>
+                    <p class="subtitle">2/1-systeemi</p>
                 </a>
 
                 <a href="jari-esa.html" class="system-card">
-                    <div class="icon">♠️</div>
                     <h2>Esa & Jari</h2>
-                    <p class="subtitle">2/1 System</p>
+                    <p class="subtitle">2/1-systeemi</p>
                 </a>
 
                 <a href="henrik-esa.html" class="system-card">
-                    <div class="icon">♥️</div>
                     <h2>Esa & Henrik</h2>
-                    <p class="subtitle">Bidding System</p>
+                    <p class="subtitle">Tarjoussysteemi</p>
                 </a>
             </div>
         </div>
 
         <footer>
-            <p>Bridge Bidding Systems © 2026</p>
+            <p>Bridgen tarjoussysteemit © 2026</p>
         </footer>
     </div>
 </body>
