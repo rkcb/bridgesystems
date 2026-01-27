@@ -12,40 +12,40 @@
 |===
 | Avaus  | Vastaus | Jatko
 | 1 &clubs; = 2+&clubs;, 11+p
-|1 [red]#&#9670;# = 4+[red]#&hearts;# 6+p, +
+|1 [red]#&diams;# = 4+[red]#&hearts;# 6+p, +
 1 [red]#&hearts;# = 4+&spades;, 6+p, +
-1 &spades; = 4+[red]#&#9670;#, 6+p +
+1 &spades; = 4+[red]#&diams;#, 6+p +
 1 NT = tas. ei 4k yv, 6-10p,  +
-2 [red]#&#9670;# = 5+ &clubs; yleensä tasaisehko, 4k yv, tpv +
+2 [red]#&diams;# = 5+ &clubs; yleensä tasaisehko, 4k yv, tpv +
 2&clubs; = 5+&clubs;, ei 4k yv., yleensä epätas. 5-10p +
 2NT = tasainen, ei 4k yv, 11-12p +
 3&clubs; = 5+&clubs;, ei 4k yv., yleensä epätas. 11-12p +
-3 [red]#&#9670;# / 3 [red]#&hearts;# / 3&spades; = 5+&clubs; ei 4k yv, 0-1 tarjouttua väriä, tpv
+3 [red]#&diams;# / 3 [red]#&hearts;# / 3&spades; = 5+&clubs; ei 4k yv, 0-1 tarjouttua väriä, tpv
 4+ &clubs; = 5+ &clubs; ei 4k yv, esto +
-| 1 [red]#&#9670;#, 1 [red]#&hearts;#  katso <<Transfer Walsh>>
+| 1 [red]#&diams;#, 1 [red]#&hearts;#  katso <<Transfer Walsh>>
 
-|1 [red]#&#9670;# = 4+[red]#&#9670;#, 11+p +
+|1 [red]#&diams;# = 4+[red]#&diams;#, 11+p +
 |1 [red]#&hearts;# = 4+[red]#&hearts;#, 6+p +
 1 &spades; = 4+&spades;, 6+p +
 1NT = ei 4k yv, 6-10p +
 2&clubs; = 4+&clubs;, tpv +
-2 [red]#&#9670;# = 4+ [red]#&#9670;#, 6-10p +
+2 [red]#&diams;# = 4+ [red]#&diams;#, 6-10p +
 2NT = tasainen, ei 4k yv, 11-12p +
-3 &clubs; = 4+ [red]#&#9670;# yleensä tasaisehko, ei 4k yv, tpv +
-3 [red]#&#9670;# = 4+ [red]#&#9670;#, yleensä epätas., 11-12p
+3 &clubs; = 4+ [red]#&diams;# yleensä tasaisehko, ei 4k yv, tpv +
+3 [red]#&diams;# = 4+ [red]#&diams;#, yleensä epätas., 11-12p
 | 2 [red]#&hearts;# = 5+ [red]#&hearts;#, min +
 
 | 1 [red]#&hearts;# = 5+[red]#&hearts;#, 11+p
 | 1 &spades; = 4+[red]#&hearts;#, 6+p +
 1NT = ei 3 [red]#&hearts;#, 6 - 11(12)p +
 2&clubs; = 4+&clubs; tpv +
-2 [red]#&#9670;# = 4+&clubs; tpv +
+2 [red]#&diams;# = 4+&clubs; tpv +
 2 [red]#&hearts;# = 3+[red]#&hearts;#, 6-10p +
 2NT = 4+ [red]#&hearts;#, <<Jacoby 2NT>>, tpv +
 3&clubs; = 6+&clubs;, 0-2 [red]#&hearts;#, 11-12p +
-3 [red]#&#9670;# = 6+ [red]#&#9670;#, 0-2 [red]#&hearts;#, 11-12p +
+3 [red]#&diams;# = 6+ [red]#&diams;#, 0-2 [red]#&hearts;#, 11-12p +
 3 [red]#&hearts;# = 3+ [red]#&hearts;#, inviitti, 10-12p, +
-3&spades; / 4 &clubs; / 4 [red]#&#9670;# = 4+ [red]#&hearts;#, splintteri, 0-1 tarjottua väriä, 11-15p (paremmalla 2NT) +
+3&spades; / 4 &clubs; / 4 [red]#&diams;# = 4+ [red]#&hearts;#, splintteri, 0-1 tarjottua väriä, 11-15p (paremmalla 2NT) +
 4 [red]#&hearts;# = 5+[red]#&hearts;#, esto,  0 - 8p +
 4&spades; = 7+ &spades;, pelattavaksi, enintään 10p +
 |
@@ -53,14 +53,14 @@
 | 1 &spades; = 5+ &spades;, 11+p
 |1NT = ei tukea, 6-11(12) +
 2&clubs; = 3+&clubs;, ei kiellä 3k tukea, tpv +
-2 [red]#&#9670;# = 4+ [red]#&#9670;#, ei kiellä 3k tukea, tpv +
+2 [red]#&diams;# = 4+ [red]#&diams;#, ei kiellä 3k tukea, tpv +
 2 [red]#&hearts;# = 5+ [red]#&hearts;#, tpv +
 2NT = 4+ &spades;, <<Jacoby 2NT>>, tpv +
 3 &clubs; = 6+ &clubs;, 0-2 &spades;,  11-12p +
-3 [red]#&#9670;# = 6+ [red]#&#9670;#, 0-2 &spades;, 11-12p +
+3 [red]#&diams;# = 6+ [red]#&diams;#, 0-2 &spades;, 11-12p +
 3 [red]#&hearts;# = 6+[red]#&hearts;#, 0-2 &spades;, 11-12p +
 3 &spades; = 3+ &spades;, inviitti, 11-12p +
-4 &clubs; / 4 [red]#&#9670;# / 4 [red]#&hearts;# = 4+ &spades;, splintteri, 11-15p +
+4 &clubs; / 4 [red]#&diams;# / 4 [red]#&hearts;# = 4+ &spades;, splintteri, 11-15p +
 4 &spades; = 5+ &spades;, esto, 0-8p
 |
 
@@ -80,13 +80,13 @@ Transfer Walsh on voimassa kahdennuksen jälkeenkin.
 |Avaus | Vastaus | Avaaja 2. | Vastaaja 2.
 
 | 1 &clubs;
-| 1 [red]#&#9670;# = 4+ [red]#&hearts;#, 6+p
+| 1 [red]#&diams;# = 4+ [red]#&hearts;#, 6+p
 | 1 [red]#&hearts;# = tasan 3 [red]#&hearts;#, vaatimus +
 2 [red]#&hearts;# = 4 [red]#&hearts;#, 11-15p, ei vaat. +
 2 &spades; = 0-2 [red]#&hearts;#, reverse +
 2NT = tas., 2-3 [red]#&hearts;#, 18-19p +
 3 &clubs; = 0-2 [red]#&hearts;#, 6+ &clubs;, 16-18p +
-3 [red]#&#9670;#, 3&spades; = 0-1 [red]#&#9670;# / &spades;, 4 [red]#&hearts;#, tpv +
+3 [red]#&diams;#, 3&spades; = 0-1 [red]#&diams;# / &spades;, 4 [red]#&hearts;#, tpv +
 3 [red]#&hearts;# = 4 [red]#&hearts;#, 16-18p
 
 | 2 [red]#&hearts;# = 5+ [red]#&hearts;#, 6-10p +
@@ -97,7 +97,7 @@ Transfer Walsh on voimassa kahdennuksen jälkeenkin.
 2 &spades; = 4 &spades;, 11-15p +
 2NT = tas., 2-3 &spades;, 18-19p +
 3 &clubs; = 0-2 , 6+ &clubs;, 1&spades; 6-18p +
-3 [red]#&#9670;#, [red]#&hearts;# = 0-1 [red]#&#9670;# / [red]#&hearts;#, 4 &spades;, tpv +
+3 [red]#&diams;#, [red]#&hearts;# = 0-1 [red]#&diams;# / [red]#&hearts;#, 4 &spades;, tpv +
 3 &spades; = 4 &spades;, 16-18p
 |
 |===
@@ -124,19 +124,19 @@ Jacoby 2NT alkaa, kun avaamamme sarja on edennyt 1yv - 2NT. Sopimus on voimassa 
 
 | 1 [red]#&hearts;#
 | 2NT = 4+ [red]#&hearts;#, 13+, tpv
-| 3&clubs; / 3 [red]#&#9670;# / 3 &spades; = lyhyys tarjotussa värissä, 11+ +
+| 3&clubs; / 3 [red]#&diams;# / 3 &spades; = lyhyys tarjotussa värissä, 11+ +
 3 [red]#&hearts;# = 6+ [red]#&hearts;# 15+, ei lyhyyttä
 3NT = 5 [red]#&hearts;# 422, 16-18 +
-4 &clubs; / [red]#&#9670;# = vahva sivuväri, 11+ +
+4 &clubs; / [red]#&diams;# = vahva sivuväri, 11+ +
 4 [red]#&hearts;# = minimi, ei lyhyyttä
 | 3 [red]#&hearts;# = pyytää cueta, muut cue-tarjouksia, ekstraa. 4 [red]#&hearts;# = minimi
 
 | 1 &spades;
 | 2NT = 4+ &spades; = 13+
-| 3&clubs; / 3 [red]#&#9670;# / 3 [red]#&hearts;# = lyhyys tarjotussa värissä, 11+ +
+| 3&clubs; / 3 [red]#&diams;# / 3 [red]#&hearts;# = lyhyys tarjotussa värissä, 11+ +
 3 &spades; = 6+ &spades; 15+, ei lyhyyttä
 3NT = 5 &spades; 422, 16-18 +
-4 &clubs; / [red]#&#9670;# / [red]#&hearts;# = vahva sivuväri, 11+ +
+4 &clubs; / [red]#&diams;# / [red]#&hearts;# = vahva sivuväri, 11+ +
 4 [red]#&hearts;# = minimi, ei lyhyyttä
 | 3 &spades; = pyytää cueta, muut cue-tarjouksia, ekstraa. +
 4 &spades; = minimi
@@ -157,30 +157,30 @@ on kolme tarjousta ja jatko on seuraava.
 | Avaaja | Vastaus | Avaaja 2. | Vastaaja 2.
 
 | 1x - 1y - 1z
-| 2 &clubs; = pyytää 2 [red]#&#9670;#. Tekee myöhemmin inviitin
-tai passaa 2 [red]#&#9670;# tarjoten oman ruutuvärin +
+| 2 &clubs; = pyytää 2 [red]#&diams;#. Tekee myöhemmin inviitin
+tai passaa 2 [red]#&diams;# tarjoten oman ruutuvärin +
 
- 2 [red]#&#9670;# = keinotekoinen tpv, pyytää kuvaamaan kättä +
+ 2 [red]#&diams;# = keinotekoinen tpv, pyytää kuvaamaan kättä +
 
  2NT = pyytää tarjoamaan 3 &clubs;, mihin passataan
-| 2 [red]#&#9670;#
+| 2 [red]#&diams;#
 | Vastaajan värin toisto = inviitti 5+k värillä
 
 |===
 
 ==== Esimerkki 1 - inviitti omalla ylävärillä
 
-1 [red]#&#9670;# - 1 [red]#&hearts;#; 1NT - 2&clubs; ; 2 [red]#&#9670;# - 2 [red]#&hearts;# = yleensä 6+
+1 [red]#&diams;# - 1 [red]#&hearts;#; 1NT - 2&clubs; ; 2 [red]#&diams;# - 2 [red]#&hearts;# = yleensä 6+
 [red]#&hearts;# ja 11-12p.
 
 ==== Esimerkki 2 - inviitti tasaisella kädellä
 
-1 [red]#&#9670;# - 1 [red]#&hearts;#; 1NT - 2&clubs; ; 2 [red]#&#9670;# - 2NT =
+1 [red]#&diams;# - 1 [red]#&hearts;#; 1NT - 2&clubs; ; 2 [red]#&diams;# - 2NT =
 ja 11-12p.
 
 ==== Esimerkki 3 - täyspelivaatimus
 
-1 [red]#&#9670;# - 1 [red]#&hearts;#; 1NT -  ; 2 [red]#&#9670;# = mikä tahansa tpv.
+1 [red]#&diams;# - 1 [red]#&hearts;#; 1NT -  ; 2 [red]#&diams;# = mikä tahansa tpv.
 
 == 1NT-jatkot
 
@@ -189,16 +189,16 @@ ja 11-12p.
 
 |1NT = tas. 15-17
 | 2&clubs; = Stayman
-| 2 [red]#&#9670;# = ei 4yv
+| 2 [red]#&diams;# = ei 4yv
 | 2 [red]#&hearts;# = 5 [red]#&hearts;# 4 &spades;, inv. +
 2 &spades; = 5 &spades;, 4 [red]#&hearts;#, inv +
 3&clubs; = 5+&clubs;, tpv +
-3 [red]#&#9670;# = 5+ [red]#&#9670;#, tpv +
+3 [red]#&diams;# = 5+ [red]#&diams;#, tpv +
 3 [red]#&hearts;# = 5+ &spades;, 4 [red]#&hearts;#, tpv +
 3 &spades; = 5+ [red]#&hearts;#, 4&spades;, tpv
 
 |
-| 2 [red]#&#9670;# = 5+ [red]#&hearts;#, siirto
+| 2 [red]#&diams;# = 5+ [red]#&hearts;#, siirto
 | 2 [red]#&hearts;# = 2+ [red]#&hearts;# +
 3 [red]#&hearts;# = 4+[red]#&hearts;#, max
 |
@@ -215,8 +215,8 @@ ja 11-12p.
 |
 
 |
-| 3&clubs; = 6+ [red]#&#9670;#, siirto
-| 3 [red]#&#9670;# = siirto vastaan
+| 3&clubs; = 6+ [red]#&diams;#, siirto
+| 3 [red]#&diams;# = siirto vastaan
 | 3yv = lyhyys yv:ssä +
 3NT = 15-16p, ei lyhyyksiä
 
@@ -232,14 +232,14 @@ ja 11-12p.
 
 |
 | 4&clubs; = Gerber
-| 4 [red]#&#9670;# = 0 / 4 +
+| 4 [red]#&diams;# = 0 / 4 +
 4 [red]#&hearts;# = 1 +
 4 &spades; = 2 +
 4NT = 3
 |
 
 |
-| 4 [red]#&#9670;# = 6+ [red]#&hearts;# (aina voimassa)
+| 4 [red]#&diams;# = 6+ [red]#&hearts;# (aina voimassa)
 |
 |
 
@@ -263,7 +263,7 @@ vastaavasti.
 |===
 | Avaaja | Vastustaja | Vastaaja
 
-| 1 [red]#&#9670;#
+| 1 [red]#&diams;#
 | Dbl
 | Rdbl = 11+, rangaistusluonteinen, ei tukea
 
@@ -273,10 +273,10 @@ vastaavasti.
 1 &spades; = 5+ &spades;, 6+ +
 1NT = 6 - 10 +
 2 &clubs; = 5+ &clubs;, 11+ +
-2 [red]#&#9670;# = 4+, 6 - 10 +
-2 [red]#&hearts;# = 4+ [red]#&#9670;#, 11+ +
+2 [red]#&diams;# = 4+, 6 - 10 +
+2 [red]#&hearts;# = 4+ [red]#&diams;#, 11+ +
 2NT = pito hertassa, 11-12, ei tukea +
-3 [red]#&hearts;# = 0-1 [red]#&hearts;#, 4+[red]#&#9670;#, usein slammihakuinen, tpv
+3 [red]#&hearts;# = 0-1 [red]#&hearts;#, 4+[red]#&diams;#, usein slammihakuinen, tpv
 
 
 |===
@@ -294,10 +294,10 @@ vastaavasti.
 
 |
 | 2&clubs; = ylävärit vähintään 5-4, 9+
-| 2 [red]#&#9670;# = yhtä pitkät ylävärit, valitse
+| 2 [red]#&diams;# = yhtä pitkät ylävärit, valitse
 
 |
-| 2 [red]#&#9670;# = 6k yläväri, 9+
+| 2 [red]#&diams;# = 6k yläväri, 9+
 | Kuten Multi-avauksessa: 2yv
 
 |
@@ -322,11 +322,11 @@ Jos valttirouva löytyy, niin seuraava 5NT kertoo, että meillä on kaikki avain
 
 | 4NT
 | 5 &clubs; = 0 tai 3 avainkorttia viidestä
-| 5 [red]#&#9670;# = kysyy rouvaa, jos ruutu ei ole valttia
+| 5 [red]#&diams;# = kysyy rouvaa, jos ruutu ei ole valttia
 |
 
 |
-| 5 [red]#&#9670;# = 1 tai 4 avainkorttia viidestä
+| 5 [red]#&diams;# = 1 tai 4 avainkorttia viidestä
 |
 |
 
