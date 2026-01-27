@@ -14,7 +14,7 @@
 |===
 |Avaus | Vastaus
 
-| 1&clubs; = 11+
+| 1&clubs; = 2+&clubs;, 11+
 | 1 [red]#&diams;# = 4+ [red]#&hearts;#  , 6+ (vaikka x välissä) +
 1 [red]#&hearts;#  = 4+&spades;   , 6+ (vaikka x välissä) +
 1&spades;    = 4+ [red]#&diams;#  , 6+ (vaikka x välissä) +
@@ -22,17 +22,17 @@
 2&clubs;  = 5+&clubs; , yleensä tasaisehko, ei 4yv, 5-10p, +
 3&clubs;  = 5+&clubs; , yleensä epätas., ei 4yv, 11-12p, +
 
-|1 [red]#&diams;# = 11+
+|1 [red]#&diams;# = 4+ [red]#&diams;#, 11+
 
 | 1 [red]#&hearts;# = 4+ [red]#&hearts;#, 6+ +
 1&spades; = 4+&spades;, 6+ +
 1NT = 6-10, ei 4yv, +
  2 [red]#&diams;#  = 6-10 +
 
-| 1 [red]#&hearts;# = 11+
+| 1 [red]#&hearts;# = 5+ [red]#&hearts;#, 11+
 | 2NT = Jacoby 2NT, 4+ [red]#&hearts;#, tpv +
 
-| 1 &spades; = 11+
+| 1 &spades; = 5+&spades;, 11+
 | 2NT = Jacoby 2NT, 4+ &spades;, tpv +
 
 | 1NT = 15-17, tasainen, 5yv mahdollinen, joskus tasaisehko
