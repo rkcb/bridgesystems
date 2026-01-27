@@ -26,11 +26,8 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y asciidoctor
       
-      - name: Convert AsciiDoc to HTML
-        run: |
-          for file in *.adoc; do
-            asciidoctor -a stylesheet=asciidoc-style.css -a linkcss "$file"
-          done
+      - name: Build site
+        run: ./build.sh
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

@@ -1,3 +1,15 @@
+#!/bin/bash
+set -e
+
+echo "Converting AsciiDoc files to HTML..."
+for file in *.adoc; do
+  [ -e "$file" ] || continue
+  echo "  Processing: $file"
+  asciidoctor -a stylesheet=asciidoc-style.css -a linkcss "$file"
+done
+
+echo "Generating index.html..."
+cat > index.html << 'EOF'
 <!DOCTYPE html>
 <html lang="fi">
 <head>
@@ -81,21 +93,25 @@
         </header>
         <div class="content">
             <div class="systems-grid">
-                <a href="henrik-esa.html" class="system-card">
-                    <h2>Henrik & Esa</h2>
+EOF
+
+for file in *.adoc; do
+  [ -e "$file" ] || continue
+  basename="${file%.adoc}"
+  htmlfile="${basename}.html"
+  # Convert filename to title (e.g., "henrik-esa" -> "Henrik & Esa")
+  title=$(echo "$basename" | sed 's/-/ \& /g' | sed 's/\b\(.\)/\u\1/g')
+  echo "  Adding link: $htmlfile ($title)"
+  cat >> index.html << CARD
+                <a href="$htmlfile" class="system-card">
+                    <h2>$title</h2>
                     <p class="subtitle">Tarjoussysteemi</p>
                 </a>
 
-                <a href="jari-esa.html" class="system-card">
-                    <h2>Jari & Esa</h2>
-                    <p class="subtitle">Tarjoussysteemi</p>
-                </a>
+CARD
+done
 
-                <a href="kurre-esa.html" class="system-card">
-                    <h2>Kurre & Esa</h2>
-                    <p class="subtitle">Tarjoussysteemi</p>
-                </a>
-
+cat >> index.html << 'EOF'
             </div>
         </div>
         <footer>
@@ -104,3 +120,6 @@
     </div>
 </body>
 </html>
+EOF
+
+echo "Build completed successfully!"
