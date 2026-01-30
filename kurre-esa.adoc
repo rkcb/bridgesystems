@@ -58,7 +58,46 @@ uusi väri = 5k tarjottu väri, 8+
 === Lähdöt, merkinannot ja ässäkysely
 
 Lähdöt: 1. / 2. / 4. : +
-[.underline]##H##x, Hxx[.underline]##x##, x[.underline]##x##x, x[.underline]##x##xx,
+
+== LÄHDÖT
+
+[cols="1,2,2"]
+|===
+| Lähtö | Väriä vastaan | NT:tä vastaan
+
+| A
+| AK+
+| Pyytää asennetta
+
+| K
+| AK, KQ(+), K(x)
+| Vahva, pyytää pituutta
+
+| Q
+| QJ(+); Q(x)
+| Pyytää asennetta
+
+|
+| JT(+), AJT(+), KJT(+)
+| Sama
+
+| T
+| Tx, HTx, HT9(+)
+| Sama
+
+| 9
+| H9x, T9+
+| Melko sama, (ehkä J98x)
+
+| Ylempi hakku
+| HXx, HxxXx(\+), xXx+
+| Sama
+
+| Alempi hakku
+| xX, HxxX
+| Melko sama (ehkä TxxX)
+|===
+
 
 Lähdön jälkeen jatketaan ilman poikkeavaa syytä lähtökorttisäännön mukaan pelin edetessä.
 
