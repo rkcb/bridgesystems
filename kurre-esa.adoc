@@ -90,12 +90,12 @@ Lähdöt: 1. / 2. / 4. : +
 | Melko sama, (ehkä J98x)
 
 | Ylempi hakku
-| HXx, HxxXx(\+), xXx+
+| H[.underline]##x##x, Hxx[.underline]##x##x(\+), x[.underline]##x##x+
 | Sama
 
 | Alempi hakku
-| xX, HxxX
-| Melko sama (ehkä TxxX)
+| x[.underline]##x##, Hxx[.underline]##x##
+| Melko sama (ehkä Txx[.underline]##x##)
 |===
 
 
