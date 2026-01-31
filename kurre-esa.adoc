@@ -55,6 +55,8 @@ uusi väri = 5k tarjottu väri, 8+
 
 |===
 
+== Lähdöt
+
 === Lähtöjen tyyli ja merkinannot
 
 [%header, cols="1,1,2"]
@@ -79,11 +81,7 @@ uusi väri = 5k tarjottu väri, 8+
 
 |===
 
-=== Lähdöt, merkinannot ja ässäkysely
-
-Lähdöt: 1 / 2 / 4 : +
-
-== Lähdöt
+=== Lähtökombinaatioista
 
 [cols="1,2,2"]
 |===
@@ -125,7 +123,9 @@ Lähdöt: 1 / 2 / 4 : +
 
 Lähdön jälkeen jatketaan ilman poikkeavaa syytä lähtökorttisäännön mukaan pelin edetessä.
 
-Merkinnot: pieni pyytää tai parillinen, Lavinthal
+== Merkinannot
+
+Merkinannot: pieni pyytää tai parillinen, Lavinthal
 
 Ässäkysely: RKCB 14/03
 
