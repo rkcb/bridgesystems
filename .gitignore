@@ -3,6 +3,3 @@
 .idea/
 *.iml
 
-# Ignore all HTML files except index.html
-*.html
-!index.html
