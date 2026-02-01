@@ -1,5 +1,5 @@
 
-== Lebensohl / transfers
+== Lebensohl / siirrot
 
 === Meidän 1NT-avauksen jälkeen
 Kun vastustaja välitarjoaa ennen partneria, niin partneri
@@ -7,13 +7,24 @@ voi käyttää Lebensohlia.
 
 1NT - (2x) - ? +
 
-- Dbl = stolen bid eli kahdennus on kuin 2x ilman väliintuloa; +
+- Dbl = Stolen bid eli kahdennus on kuin 2x ilman väliintuloa; +
   esimerkiksi jos 2x = 2 &clubs;, niin kahdennus on Stayman
 +
 - 2NT = pyytää tarjoamaan 3&clubs;. Vastaajalla on aina heikko käsi. 3 &clubs; minkä jälkeen vastaaja passaa tai korjaa loppusitoumukseen +
-- 3 &clubs; / 3 [red]#&diams;# / 3 [red]#&hearts;# /  3&spades; = 5+k värin siirto vastaten [red]#&diams;# /  [red]#&hearts;# / &spades; / + &clubs;, 9+. Vain minimillä  avaaja ottaa siirron vastaan. +
+- 3 &clubs; / 3 [red]#&diams;# / 3 [red]#&hearts;# /  3&spades; = 5+k värin siirto vastaten [red]#&diams;# /  [red]#&hearts;# / &spades; / + &clubs;, 9+p. Vain minimillä  avaaja ottaa siirron vastaan. +
 
 === Kahdennukseen vastatessa heikon 2x-avauksen jälkeen
+
+Koska avaus voi olla keinotekoinen, niin siirrot tarjoavat keinon
+tarjota hyvä käden ilman pelkoa passista sarjassa (2x) - Dbl - (Pass / 2y) - ? +
+
+- tarjoukset kahden tasolla ovat luonnollisia minimejä +
+
+- 2NT = pyytää tarjoamaan 3&clubs;. Vastaajalla on heikko käsi, 5-7, mihin avaaja voi tarjota muuta jos vahva käsi. Normaalisti kahdentaja tarjoaa 3 &clubs; ja vastaaja valitsee loppusitoumuksen. +
+
+- 3 &clubs; / 3 [red]#&diams;# / 3 [red]#&hearts;# /  3&spades; = 5+k värin siirto vastaten [red]#&diams;# /  [red]#&hearts;# / &spades; / + &clubs;, 9+. Vain minimillä  avaaja ottaa siirron vastaan. +
+
+Jos avaus on luonnollinen, niin siirto vastustajan väriin kysyy pitoa ko. värissä.
 
 === Reversen jälkeen
 
@@ -32,7 +43,7 @@ vastaajan seuraava tarjous on pelattavaksi +
 - 3&clubs; = tpv-voima, lisäpituus ristissä (ei kiellä slammivoimaa) +
 - 3 [red]#&diams;#  = 4+ [red]#&diams;#, tpv (ei kiellä slammivoimaa) +
 - 3 [red]#&hearts;# = (5)6+ [red]#&hearts;#, tpv, +
-- 4 &clubs;  =  3+ &clubs; -tuki, slammitriali
+- 4 &clubs;  =  3+ &clubs; -tuki, slammitriali +
 - 4 [red]#&diams;#  = 4+ [red]#&diams;#, slammitriali +
 
 
