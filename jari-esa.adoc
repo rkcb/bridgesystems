@@ -1,6 +1,7 @@
 = Esa ja Jari 2/1
 :toc:
 :toc-title: Sisällysluettelo
+:toclevels: 4
 
 ++++
 <a href="index.html" class="back-link">← Kaikki systeemit</a>
