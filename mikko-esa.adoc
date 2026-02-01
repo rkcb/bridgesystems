@@ -434,6 +434,11 @@ on kolme tarjousta ja jatko on seuraava.
 
 include::conventions/1nt.adoc[]
 
+=== 2NT -jatkot
+
+include::conventions/2nt.adoc[]
+
+
 == Heikkojen kakkosten triali
 
 
