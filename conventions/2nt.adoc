@@ -1,0 +1,95 @@
+
+|===
+|Avaus | Vastaus | Avaaja 2. | Vastaaja 2.
+
+|2NT = tas. 20-21
+| 3&clubs;
+| 3 [red]#&diams;# = ei 4yv
+| 2 [red]#&hearts;# = 5 [red]#&hearts;# 4 &spades;, inv. +
+2 &spades; = 5 &spades;, 4 [red]#&hearts;#, inv +
+3&clubs; = 5+&clubs;, tpv +
+3 [red]#&diams;# = 5+ [red]#&diams;#, tpv +
+3 [red]#&hearts;# = 5+ &spades;, 4 [red]#&hearts;#, tpv +
+3 &spades; = 5+ [red]#&hearts;#, 4&spades;, tpv
+
+|
+| 2 &clubs;
+| 2 [red]#&hearts;#
+| - 3&spades; = 4+ [red]#&hearts;#, yleensä tas. slammitriali +
+- hyppäävä uusi väri = 4+ [red]#&hearts;#, slammitriali, 0-1 tarjotussa värissä +
+
+|
+| 2 &clubs;
+| 2 &spades;
+| - 3 [red]#&hearts;#  = 4+ &spades;, yleensä tas. slammitriali +
+- hyppäävä uusi väri = 4+ &spades;, slammitriali, 0-1 tarjotussa värissä +
+
+
+|
+| 2 [red]#&diams;# = 5+ [red]#&hearts;#, siirto
+| 2 [red]#&hearts;# = 2+ [red]#&hearts;# +
+3 [red]#&hearts;# = 4+[red]#&hearts;#, max
+|- 2&spades; =
+5 [red]#&hearts;#, 5&spades;, inviitti +
+- hyppäävä uusi väri = lyhyys värissä, splintteri +
+- 4 [red]#&hearts;# = mieto tas. slammitriali, 15 - 16 +
+
+|
+| 2 [red]#&hearts;# = 5+ &spades;, siirto +
+| 2 &spades; = 2+ &spades; +
+3 &spades; = 4+&spades;, max
+|- 3 [red]#&hearts;# = 5+ [red]#&hearts;#, 5+&spades;, tpv +
+- hyppäävä uusi väri = lyhyys värissä, splintteri +
+- 4 &spades; = mieto tas. slammitriali, 15-16 +
+
+|
+| 2 &spades; = 6+&clubs;, kysyy max
+| 2NT = min, 3&clubs; = 3+&clubs; max
+| - uusi väri = lyhyys tarjotussa värissä, tpv +
+- 3NT = 15-16p, ei lyhyyksiä, slammitriali
+
+|
+| 3&clubs; = 6+ [red]#&diams;#, siirto
+| 3 [red]#&diams;# = siirto vastaan
+| - uusi väri = lyhyys tarjotussa värissä, tpv+ +
+- 3NT = 15-16p, ei lyhyyksiä, slammitriali
+
+|
+| 3 [red]#&diams;# = 6+ [red]#&diams;#, inviitti
+|
+|
+
+|
+| 3 [red]#&hearts;# = 3&spades; 1 [red]#&hearts;# av:t 5-4, tpv
+|
+|
+
+|
+| 3&spades; = 3 [red]#&hearts;# 1 &spades; av:t 5-4, tpv
+|
+|
+
+|
+| 4&clubs; = Gerber
+| 4 [red]#&diams;# = 0 / 4 +
+4 [red]#&hearts;# = 1 +
+4 &spades; = 2 +
+4NT = 3
+|
+
+|
+| 4 [red]#&diams;# = 6+ [red]#&hearts;# (aina voimassa)
+|
+|
+
+|
+| 4 [red]#&hearts;# = 6+&spades; (aina voimassa)
+|
+|
+
+|
+| 4NT = 16-17p, kvantti
+|
+|
+
+|===
