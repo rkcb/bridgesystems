@@ -430,9 +430,9 @@ on kolme tarjousta ja jatko on seuraava.
 1 [red]#&diams;# - 1 [red]#&hearts;#; 1NT - 2&clubs; ; 2 [red]#&diams;# - 2 [red]#&hearts;# = yleensä 6+
 [red]#&hearts;# ja 11-12p.
 
-== 1NT-jatkot
+=== 1NT -jatkot
 
-include::conventions/1nt.adoc
+include::conventions/1nt.adoc[]
 
 == Heikkojen kakkosten triali
 
