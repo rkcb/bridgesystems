@@ -1,6 +1,7 @@
 = Esa ja Mikko 2/1
 :toc:
 :toc-title: Sisällysluettelo
+:toclevels: 3
 
 ++++
 <a href="index.html" class="back-link">← Kaikki systeemit</a>
@@ -14,7 +15,7 @@
 |===
 |Avaus | Vastaus
 
-| 1&clubs; = 11+
+| 1&clubs; = 2+&clubs;, 11+
 | 1 [red]#&diams;# = 4+ [red]#&hearts;#  , 6+ (vaikka x välissä) +
 1 [red]#&hearts;#  = 4+&spades;   , 6+ (vaikka x välissä) +
 1&spades;    = 4+ [red]#&diams;#  , 6+ (vaikka x välissä) +
@@ -22,25 +23,25 @@
 2&clubs;  = 5+&clubs; , yleensä tasaisehko, ei 4yv, 5-10p, +
 3&clubs;  = 5+&clubs; , yleensä epätas., ei 4yv, 11-12p, +
 
-|1 [red]#&diams;# = 11+
+|1 [red]#&diams;# = 4+ [red]#&diams;#, 11+
 
 | 1 [red]#&hearts;# = 4+ [red]#&hearts;#, 6+ +
 1&spades; = 4+&spades;, 6+ +
 1NT = 6-10, ei 4yv, +
- 2 [red]#&diams;#  = 6-10 +
+2 [red]#&diams;#  = 6-10 +
 
-| 1 [red]#&hearts;# = 11+
+| 1 [red]#&hearts;# = 5+ [red]#&hearts;#, 11+
 | 2NT = Jacoby 2NT, 4+ [red]#&hearts;#, tpv +
 
-| 1 &spades; = 11+
+| 1 &spades; = 5+&spades;, 11+
 | 2NT = Jacoby 2NT, 4+ &spades;, tpv +
 
 | 1NT = 15-17, tasainen, 5yv mahdollinen, joskus tasaisehko
 | 2&clubs; = Stayman +
-  2 [red]#&diams;# = siirto, 5+ [red]#&hearts;# , 0+ +
-  2 [red]#&hearts;#  = siirto, 5+&spades;, 0+ +
-  2&spades; = siirto, 6+&clubs; +
-  2NT = inviitti, 8-9 +
+2 [red]#&diams;# = siirto, 5+ [red]#&hearts;# , 0+ +
+2 [red]#&hearts;#  = siirto, 5+&spades;, 0+ +
+2&spades; = siirto, 6+&clubs; +
+2NT = inviitti, 8-9 +
 
 
 | 2&clubs; = 22+
@@ -50,19 +51,84 @@ uusi väri = 5k tarjottu väri, 8+
 | 2 [red]#&diams;#, 2 [red]#&hearts;#, 2&spades; = 6k tarjottu väri, 6-10
 | 2NT kysyy lyhyyttä, värin toisto => ei ole
 
-| 3+ väri = estotarjous
+| 3+ väri = luonnollinen estotarjous
 |
 
 |===
 
 === Lähdöt, merkinannot ja ässäkysely
 
-Lähdöt: 1. / 2. / 4. : +
-[.underline]##H##x, Hxx[.underline]##x##, x[.underline]##x##x, x[.underline]##x##xx,
+==== Lähtöjen tyyli
+
+[%header, cols="1,1,2"]
+|===
+| | Lähtö | Partnerin värissä
+
+| Väri
+| 1/2/4
+| 1/2/4
+
+| NT
+| 1/2/4
+| 1/2/4 (1/3/5)*
+
+| Jatko
+| 1/2/4
+| 1/2/4
+
+3+| Muuten: *tukemattomassa partnerin värissä lähdetään: 1/3/5, [.underline]##x##x, xx[.underline]##x##, jne.
+
+3+| NT-sopimusta vastaan kuningas on vahva lähtö, pyytää joko rouvan ablokeerausta tai pituusmerkinantoa.
+
+|===
+
+==== Lähtökombinaatioista
+
+[cols="1,2,2"]
+|===
+| Lähtö | Väriä vastaan | NT:tä vastaan
+
+| A
+| AK+
+| Pyytää asennetta
+
+| K
+| AK, KQ(+), K(x)
+| Vahva, pyytää pituutta
+
+| Q
+| QJ(+), Q(x)
+| Pyytää asennetta
+
+| J
+| JT(+), AJT(+), KJT(+)
+| Sama
+
+| T
+| Tx, HTx, HT9(+)
+| Sama
+
+| 9
+| H9x, T9+
+| Melko sama, (ehkä J98x)
+
+| Hakku
+| H[.underline]##x##x, Hxx[.underline]##x##x(\+), x[.underline]##x##x+
+| Sama
+
+| Hakku
+| x[.underline]##x##, Hxx[.underline]##x##
+| Melko sama (ehkä Txx[.underline]##x##)
+|===
+
 
 Lähdön jälkeen jatketaan ilman poikkeavaa syytä lähtökorttisäännön mukaan pelin edetessä.
 
-Merkinnot: pieni pyytää tai parillinen, Lavinthal
+==== Merkinannot
+
+Merkinannot: pieni pyytää tai parillinen, Lavinthal
+
+==== Ässäkysely
 
 Ässäkysely: RKCB 14/03
 
