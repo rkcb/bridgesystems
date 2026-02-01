@@ -29,18 +29,23 @@
 | 2 [red]#&diams;# = 5+ [red]#&hearts;#, siirto
 | 2 [red]#&hearts;# = 2+ [red]#&hearts;# +
 3 [red]#&hearts;# = 4+[red]#&hearts;#, max
-|
+|- 2&spades; =
+ 5 [red]#&hearts;#, 5&spades;, inviitti +
+ - hyppäävä uusi väri = lyhyys värissä, splintteri +
+ - 4 [red]#&hearts;# = mieto tas. slammitriali, 15 - 16 +
 
 |
 | 2 [red]#&hearts;# = 5+ &spades;, siirto +
 | 2 &spades; = 2+ &spades; +
 3 &spades; = 4+&spades;, max
-|
+|- 3 [red]#&hearts;# = 5+ [red]#&hearts;#, 5+&spades;, tpv +
+    - hyppäävä uusi väri = lyhyys värissä, splintteri +
+    - 4 &spades; = mieto tas. slammitriali, 15-16 +
 
 |
 | 2 &spades; = 6+&clubs;, kysyy max
 | 2NT = min, 3&clubs; = 3+&clubs; max
-| - uusi väri = lyhyys tarjotussa värissä, tpv+ +
+| - uusi väri = lyhyys tarjotussa värissä, tpv +
 - 3NT = 15-16p, ei lyhyyksiä, slammitriali
 
 |
