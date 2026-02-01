@@ -432,82 +432,13 @@ on kolme tarjousta ja jatko on seuraava.
 
 == 1NT-jatkot
 
-|===
-|Avaus | Vastaus | Avaaja 2. | Vastaaja 2.
-
-|1NT = tas. 15-17
-| 2&clubs; = Stayman
-| 2 [red]#&diams;# = ei 4yv
-| 2 [red]#&hearts;# = 5 [red]#&hearts;# 4 &spades;, inv. +
-2 &spades; = 5 &spades;, 4 [red]#&hearts;#, inv +
-3&clubs; = 5+&clubs;, tpv +
-3 [red]#&diams;# = 5+ [red]#&diams;#, tpv +
-3 [red]#&hearts;# = 5+ &spades;, 4 [red]#&hearts;#, tpv +
-3 &spades; = 5+ [red]#&hearts;#, 4&spades;, tpv
-
-|
-| 2 [red]#&diams;# = 5+ [red]#&hearts;#, siirto
-| 2 [red]#&hearts;# = 2+ [red]#&hearts;# +
-3 [red]#&hearts;# = 4+[red]#&hearts;#, max
-|
-
-|
-| 2 [red]#&hearts;# = 5+ &spades;, siirto +
-| 2 &spades; = 2+ &spades; +
-3 &spades; = 4+&spades;, max
-|
-
-|
-| 2 &spades; = 6+&clubs;, kysyy max
-| 2NT = min, 3&clubs; = 3+&clubs; max
-|
-
-|
-| 3&clubs; = 6+ [red]#&diams;#, siirto
-| 3 [red]#&diams;# = siirto vastaan
-| 3yv = lyhyys yv:ssä +
-3NT = 15-16p, ei lyhyyksiä
-
-|
-| 3 [red]#&hearts;# = 3&spades; 1 [red]#&hearts;# av:t 5-4, tpv
-|
-|
-
-|
-| 3&spades; = 3 [red]#&hearts;# 1 &spades; av:t 5-4, tpv
-|
-|
-
-|
-| 4&clubs; = Gerber
-| 4 [red]#&diams;# = 0 / 4 +
-4 [red]#&hearts;# = 1 +
-4 &spades; = 2 +
-4NT = 3
-|
-
-|
-| 4 [red]#&diams;# = 6+ [red]#&hearts;# (aina voimassa)
-|
-|
-
-|
-| 4 [red]#&hearts;# = 6+&spades; (aina voimassa)
-|
-|
-
-|
-| 4NT = 16-17p, kvantti
-|
-|
-
-|===
-
-// 1nt-jatkot
 include::conventions/1nt.adoc[]
 
-== Heikkojen kakkosten triali
+== 2NT-jatkot
 
+include::conventions/2nt.adoc[]
+
+== Heikkojen kakkosten triali
 
 |===
 | Alku | Avaajan 2.
