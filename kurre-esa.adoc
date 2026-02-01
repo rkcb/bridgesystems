@@ -111,11 +111,11 @@ uusi väri = 5k tarjottu väri, 8+
 | H9x, T9+
 | Melko sama, (ehkä J98x)
 
-| hakku
+| Hakku
 | H[.underline]##x##x, Hxx[.underline]##x##x(\+), x[.underline]##x##x+
 | Sama
 
-| hakku
+| Hakku
 | x[.underline]##x##, Hxx[.underline]##x##
 | Melko sama (ehkä Txx[.underline]##x##)
 |===
