@@ -1,6 +1,7 @@
 = Esa ja Kurre 2/1
 :toc:
 :toc-title: Sisällysluettelo
+:toclevels: 4
 
 ++++
 <a href="index.html" class="back-link">← Kaikki systeemit</a>
@@ -55,9 +56,9 @@ uusi väri = 5k tarjottu väri, 8+
 
 |===
 
-== Lähdöt
+=== Lähdöt, merkinannot ja ässäkysely
 
-=== Lähtöjen tyyli ja merkinannot
+==== Lähtöjen tyyli
 
 [%header, cols="1,1,2"]
 |===
@@ -81,7 +82,7 @@ uusi väri = 5k tarjottu väri, 8+
 
 |===
 
-=== Lähtökombinaatioista
+==== Lähtökombinaatioista
 
 [cols="1,2,2"]
 |===
@@ -123,9 +124,11 @@ uusi väri = 5k tarjottu väri, 8+
 
 Lähdön jälkeen jatketaan ilman poikkeavaa syytä lähtökorttisäännön mukaan pelin edetessä.
 
-== Merkinannot
+==== Merkinannot
 
 Merkinannot: pieni pyytää tai parillinen, Lavinthal
+
+==== Ässäkysely
 
 Ässäkysely: RKCB 14/03
 
@@ -605,6 +608,10 @@ vastaavasti.
 |
 
 |===
+
+% Lebensohl / siirrot
+
+include::conventions/lebensohl-transfers.adoc[]
 
 == Puolustustarjouksia
 
