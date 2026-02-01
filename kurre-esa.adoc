@@ -503,6 +503,9 @@ on kolme tarjousta ja jatko on seuraava.
 
 |===
 
+// 1nt-jatkot
+include::conventions/1nt.adoc[]
+
 == Heikkojen kakkosten triali
 
 
@@ -609,7 +612,7 @@ vastaavasti.
 
 |===
 
-% Lebensohl / siirrot
+// konventio
 
 include::conventions/lebensohl-transfers.adoc[]
 
