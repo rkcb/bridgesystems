@@ -451,6 +451,9 @@ include::conventions/1nt.adoc[]
 
 include::conventions/2nt.adoc[]
 
+== 2 &clubs;  - jatkot
+
+include::conventions/2c.adoc[]
 
 
 == Heikkojen kakkosten triali
