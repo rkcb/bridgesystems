@@ -49,5 +49,20 @@ vastaajan seuraava tarjous on pelattavaksi +
 - 4 &clubs;  =  3+ &clubs; -tuki, slammitriali +
 - 4 [red]#&diams;#  = 4+ [red]#&diams;#, slammitriali +
 
+Toinen esimerkki.
+
+1 [red]#&hearts;# - 1NT; +
+2 &spades;  - 2NT; +
+3 &clubs; - ? +
+
+- Pass = 6+ &clubs; +
+- 3 [red]#&diams;# = 6+  [red]#&diams;#, pelattavaksi +
+- 3&spades; = 2+&spades; preffi, pelattavaksi +
+
+Kolmas esimerkki.
+
+1 [red]#&hearts;# - 1NT; +
+2 &spades;  - 2NT; +
+3  [red]#&diams;# = 3+ [red]#&diams;#,  19-21, tpv, koska ei 3 &clubs;  vastaan +
 
 

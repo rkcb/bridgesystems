@@ -1,0 +1,32 @@
+Kun avaaja tekee reversen, niin Lebensohl on käytössä.
+
+Alla esimerkkisarja.
+
+1 &clubs; - 1 [red]#&hearts;#; +
+2 [red]#&diams;#  - ? +
+
+- 2 [red]#&hearts;#, värin toisto _kahden_ tasolla 6k väri, ei halua tpv minimiä vastaan
+- 2&spades; = 4. väri, kysyy pitoa, tpv +
+- 2NT = pyytää tarjoamaan 3&clubs;. Vastaajalla on heikko käsi, 5-7, mihin avaaja voi tarjota muuta jos hänellä on tpv-voima ja muuten +
+vastaajan seuraava tarjous on pelattavaksi +
+- 3&clubs; = tpv-voima, lisäpituus ristissä (ei kiellä slammivoimaa) +
+- 3 [red]#&diams;#  = 4+ [red]#&diams;#, tpv (ei kiellä slammivoimaa) +
+- 3 [red]#&hearts;# = (5)6+ [red]#&hearts;#, tpv, +
+- 4 &clubs;  =  3+ &clubs; -tuki, slammitriali +
+- 4 [red]#&diams;#  = 4+ [red]#&diams;#, slammitriali +
+
+Toinen esimerkki.
+
+1 [red]#&hearts;# - 1NT; +
+2 &spades;  - 2NT; +
+3 &clubs; - ? +
+
+- Pass = 6+ &clubs; +
+- 3 [red]#&diams;# = 6+  [red]#&diams;#, pelattavaksi +
+- 3&spades; = 2+&spades; preffi, pelattavaksi +
+
+Kolmas esimerkki.
+
+1 [red]#&hearts;# - 1NT; +
+2 &spades;  - 2NT; +
+3  [red]#&diams;# = 3+ [red]#&diams;#,  19-21, tpv, koska ei 3 &clubs;  vastaan +

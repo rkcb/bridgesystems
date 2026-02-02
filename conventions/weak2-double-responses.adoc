@@ -1,0 +1,15 @@
+
+Jos avaus 2x on keinotekoinen, niin helpointa on odottaa,
+kunnes vastustajat näyttävät värinsä, jolloin selvitään
+vähemmällä sopimisella ja voidaan jatkaa tästä. Meidän
+passi alussa ei siis kiellä voimaa.
+
+Oletetaan, että sarja on mennyt esim. Multi-avauksella
+(2 [red]#&diams;#) - Pass - (2 [red]#&hearts;#) - Pass; +
+(Pass) - Dbl ( = normaali ilmaisukahdennus, 12+ ) - (Pass) - ?
+
+- 2&spades; = (3) 4+&spades;, minimi +
+- 2NT = pyytää tarjoamaan 3&clubs;. Vastaajalla on joko heikko käsi tai 4&spades; ja pito hertassa. Kahdentava voi tarjota muuta kuin 3 &clubs;, jos hänellä on 19+ +
+- 3 &clubs;  = 4+&clubs;, 9-11 +
+- 3  [red]#&diams;#   = 4+ [red]#&diams;# , 9-11 +
+- 3&spades; = 4+&spades;, 9-11 +

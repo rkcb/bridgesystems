@@ -517,7 +517,10 @@ vastaavasti.
 
 |===
 
-== 1NT - puolustus
+== Puolustustarjouksia
+
+
+=== 1NT - puolustus
 
 
 |===
@@ -545,11 +548,8 @@ vastaavasti.
 
 |===
 
-== Puolustustarjouksia
-
 
 === Michael's cue
-
 
 |===
 | Vastustajan 1. | Meidän 1. | Meidän 2.
@@ -573,3 +573,4 @@ Hyppäävä 2NT välitarjous lupaa alimmat tarjoamattomat värit 5-5.
 
 Leaping Michael's lupaa hyvän käden ja tarjoamattomat värit
 5-5: ylävärit tai ylävärin ja alavärin.
+
