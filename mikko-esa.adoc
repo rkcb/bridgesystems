@@ -438,6 +438,9 @@ include::conventions/1nt.adoc[]
 
 include::conventions/2nt.adoc[]
 
+=== Reversen jälkeen
+
+include::conventions/lebensohl-after-reverse.adoc[]
 
 == Heikkojen kakkosten triali
 
@@ -465,6 +468,10 @@ include::conventions/2nt.adoc[]
 |
 |===
 
+== 2 &clubs; -jatkot
+
+include::conventions/2c.adoc[]
+
 == Kun vastustaja välitarjoaa
 
 === Tukikahdennus
@@ -472,6 +479,11 @@ include::conventions/2nt.adoc[]
 Avaaja näyttää vastaajan yläväritarjoukseen 3k tuen kahdennuksella. Jos
 tukikahdennus tehdään kolmen tasolla, niin se lupaa lisävoimaa ollen
 mahdollisesti rankkariluonteinen.
+
+=== Meidän 1NT - (ei-passi) - ?
+
+include::conventions/1nt-interfered.adoc[]
+
 
 === Esimerkkejä
 
