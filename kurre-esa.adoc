@@ -6,6 +6,14 @@
 ++++
 <a href="index.html" class="back-link">← Kaikki systeemit</a>
 ++++
+== Muutokset
+
+2.2.2026:
+
+- ehdotuksia 1NT-häirintään, jossa Lebensohl ja siirtoja
+- reversen jälkeen Lebensohl
+- vastustajan kahdennuksen jälkeen myös Lebensohl
+- 1NT- ja 2NT-jatkot täydennetty
 
 == Pöytäkortti
 
@@ -193,6 +201,11 @@ Merkinannot: pieni pyytää tai parillinen, Lavinthal
 |
 
 |===
+
+=== Reversen jälkeen
+
+include::conventions/lebensohl-after-reverse.adoc[]
+
 
 === 2/1-sarjoja
 
@@ -430,13 +443,15 @@ on kolme tarjousta ja jatko on seuraava.
 1 [red]#&diams;# - 1 [red]#&hearts;#; 1NT - 2&clubs; ; 2 [red]#&diams;# - 2 [red]#&hearts;# = yleensä 6+
 [red]#&hearts;# ja 11-12p.
 
-== 1NT-jatkot
+=== 1NT-jatkot
 
 include::conventions/1nt.adoc[]
 
 == 2NT-jatkot
 
 include::conventions/2nt.adoc[]
+
+
 
 == Heikkojen kakkosten triali
 
@@ -515,8 +530,14 @@ vastaavasti.
 
 |===
 
-== 1NT - puolustus
 
+// konventio
+
+include::conventions/lebensohl-transfers.adoc[]
+
+== Puolustustarjouksia
+
+=== 1NT - puolustus
 
 |===
 | Vastustaja | Me | Jatko
@@ -542,12 +563,6 @@ vastaavasti.
 |
 
 |===
-
-// konventio
-
-include::conventions/lebensohl-transfers.adoc[]
-
-== Puolustustarjouksia
 
 
 === Michael's cue
@@ -575,3 +590,7 @@ Hyppäävä 2NT välitarjous lupaa alimmat tarjoamattomat värit 5-5.
 
 Leaping Michael's lupaa hyvän käden ja tarjoamattomat värit
 5-5: ylävärit tai ylävärin ja alavärin.
+
+=== Vastustajan heikko kakkonen ja kahdentaminen
+
+include::conventions/weak2-double-responses.adoc[]
