@@ -22,7 +22,7 @@
 | 2 &clubs;
 | 2 &spades;
 | - 3 [red]#&hearts;#  = 4+ &spades;, yleensä tas. slammitriali +
-    - hyppäävä uusi väri = 4+ &spades;, slammitriali, 0-1 tarjotussa värissä +
+    - hyppäävä uusi väri = 4+ &spades;, slammitriali, 0-1 tarjotussa värissä +bdwbb
 
 
 |
@@ -40,7 +40,7 @@
 3 &spades; = 4+&spades;, max
 |- 3 [red]#&hearts;# = 5+ [red]#&hearts;#, 5+&spades;, tpv +
     - hyppäävä uusi väri = lyhyys värissä, splintteri +
-    - 4 &spades; = mieto tas. slammitriali, 15-16 +
+    - 4 &spades; = mieto tas. slammitriali, 15-1 +
 
 |
 | 2 &spades; = 6+&clubs;, kysyy max

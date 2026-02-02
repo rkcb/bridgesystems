@@ -1,0 +1,19 @@
+
+|===
+|Avaus | Vastaus
+
+| 2&clubs; = 22+ tai ekvivalentti
+| 2 [red]#&diams;# = odottava +
+2 [red]#&hearts;# = 5+ [red]#&hearts;#, 8+ +
+2&spades; = 5+&spades;, 8+ +
+3&clubs; = 5+&clubs;, 8+ +
+3 [red]#&diams;# = 5+ [red]#&diams;#, 8+
+
+|===
+
+2 &clubs; - 2 [red]#&diams;# ; 2NT on ainoa sarja, joka ei ole tpv. +
+Tämän sarjan jälkeen kaikki muut tarjoukset menevät, kuten 2NT-avauksen jälkeen.
+
+
+
+

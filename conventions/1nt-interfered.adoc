@@ -1,0 +1,11 @@
+
+Kun vastustaja välitarjoaa ennen partneria, niin partneri
+voi käyttää Lebensohlia.
+
+1NT - (2x) - ? +
+
+- Dbl = Stolen bid eli kahdennus on kuin 2x ilman väliintuloa; +
+esimerkiksi jos 2x = 2 &clubs;, niin kahdennus on Stayman
++
+- 2NT = pyytää tarjoamaan 3&clubs;. Vastaajalla on aina heikko käsi. 3 &clubs; minkä jälkeen vastaaja passaa tai korjaa loppusitoumukseen +
+- 3 &clubs; / 3 [red]#&diams;# / 3 [red]#&hearts;# /  3&spades; = 5+k värin siirto vastaten [red]#&diams;# /  [red]#&hearts;# / &spades; /  &clubs;, 9+p. Vain minimillä  avaaja ottaa siirron vastaan. +
