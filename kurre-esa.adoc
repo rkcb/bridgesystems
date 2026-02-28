@@ -15,6 +15,11 @@
 - vastustajan kahdennuksen jälkeen myös Lebensohl
 - 1NT- ja 2NT-jatkot täydennetty
 
+28.2.2026:
+
+- Täydennetty pöytäkorttia.
+- Lisätty Sekalaisia tarjouksia -osio, jossa neljäs väri -,  kolmas väri -konvention ja ehdotus meidän välitarjoussangiin: nelivärisiirrot
+
 == Pöytäkortti
 
 === Avaukset
@@ -29,20 +34,26 @@
 1&spades;    = 4+ [red]#&diams;#  , 6+ (vaikka x välissä) +
 1NT = tas, ei 4yv, 6-10p, +
 2&clubs;  = 5+&clubs; , yleensä tasaisehko, ei 4yv, 5-10p, +
+2 [red]#&diams;# = Criss cross, 5+ &clubs;, ei 4yv, tpv +
 3&clubs;  = 5+&clubs; , yleensä epätas., ei 4yv, 11-12p, +
 
-|1 [red]#&diams;# = 4+ [red]#&diams;#, 11+
+|1 [red]#&diams;# = 4+ [red]#&diams;#, 11+ +
 
 | 1 [red]#&hearts;# = 4+ [red]#&hearts;#, 6+ +
 1&spades; = 4+&spades;, 6+ +
 1NT = 6-10, ei 4yv, +
  2 [red]#&diams;#  = 6-10 +
+ 3 &clubs; = Criss cross, 4+ [red]#&diams;#, ei 4yv, tpv +
 
 | 1 [red]#&hearts;# = 5+ [red]#&hearts;#, 11+
 | 2NT = Jacoby 2NT, 4+ [red]#&hearts;#, tpv +
+  3 &clubs; = 6+ &clubs; 0-2 [red]#&hearts;#, 11-12p +
+  3 [red]#&diams;# = 6+ [red]#&diams;#, 0-2 [red]#&hearts;#, 11-12p +
 
 | 1 &spades; = 5+&spades;, 11+
 | 2NT = Jacoby 2NT, 4+ &spades;, tpv +
+ 3 &clubs; = 6+&clubs;, 0-2 &spades;, 11-12p +
+ 3 [red]#&diams;# = 6+ [red]#&diams;#, 0-2 &spades;, 11-12p +
 
 | 1NT = 15-17, tasainen, 5yv mahdollinen, joskus tasaisehko
 | 2&clubs; = Stayman +
@@ -440,8 +451,23 @@ on kolme tarjousta ja jatko on seuraava.
 |===
 
 ==== Esimerkki
-1 [red]#&diams;# - 1 [red]#&hearts;#; 1NT - 2&clubs; ; 2 [red]#&diams;# - 2 [red]#&hearts;# = yleensä 6+
-[red]#&hearts;# ja 11-12p.
+1 [red]#&diams;# - 1 [red]#&hearts;#; +
+1NT - 2&clubs; ; +
+2 [red]#&diams;# - 2 [red]#&hearts;# = 5+ [red]#&hearts;# ja 11-12p.
+
+
+=== Drury vain 3. penkissä
+
+|===
+|Avaaja |Vastaaja |Avaajan 2. |Vastaajan 2.
+
+| P - (P) - 1 [red]#&hearts;#
+| 2 &clubs; = 3+ [red]#&hearts;#, inv+
+| 2 [red]#&diams;# = normaali avaus, min +
+2 [red]#&hearts;#  = heikko 3. käden avaus +
+Muut avaajan tarjoukset Kokish-trial-logiikalla
+|
+|===
 
 === 1NT-jatkot
 
@@ -455,7 +481,6 @@ include::conventions/2nt.adoc[]
 
 include::conventions/2c.adoc[]
 
-
 == Heikkojen kakkosten triali
 
 |===
@@ -465,20 +490,6 @@ include::conventions/2c.adoc[]
 | avausvärin toisto = ei lyh. +
   uusi väri = lyhyys +
   3NT = ei lyhyyttä, solidi avausväri
-|===
-
-== Drury vain 3. penkissä
-
-
-|===
-|Avaaja |Vastaaja |Avaajan 2. |Vastaajan 2.
-
-| P - (P) - 1 [red]#&hearts;#
-| 2 &clubs; = 3+ [red]#&hearts;#, inv+
-| 2 [red]#&diams;# = normaali avaus, min +
-  2 [red]#&hearts;#  = heikko 3. käden avaus +
-  Muut avaajan tarjoukset Kokish-trial-logiikalla
-|
 |===
 
 == Kun vastustaja välitarjoaa
@@ -538,6 +549,25 @@ vastaavasti.
 
 include::conventions/lebensohl-transfers.adoc[]
 
+== Sekalaisia konventioita
+
+- 4. väri kysyy pitoa ja on tpv passaamattomalla kädellä.
+
+- alavärin tukeminen neljän tasolla meidän avaamassa sarjassa slammihakuinen tarjous, kun selvästi ei ole kyse estotarjouksesta. Tämän seuraus on se, että kun partneri ei tukenut alaväriä neljän tasolla, niin 4NT
+voidaan käyttää kvanttina samassa paikassa.
+- Vastustaja rankaisee meidän tarjoamaan 1NT-välitarjousta
+(1x) - 1NT - (Dbl) - ? : +
+* Rdbl = siirto ristiin, 5+ &clubs;
+* 2 &clubs; = siirto ruutuun, 5+ [red]#&diams;#
+* 2 [red]#&diams;# = siirto herttaan, 5+ [red]#&hearts;#
+* 2 [red]#&hearts;# = siirto pataan, 5+ &spades;
+
+- kolmas väri.
+* 1 &clubs; - 1 [red]#&hearts;#; 2 &clubs; - 2 [red]#&diams;# = keinotekoinen vaatimus, 11+
+* 1 [red]#&diams;# - 1&spades; ; 2 [red]#&diams;# - 2 [red]#&hearts;# = 5+&spades;, 4+ [red]#&hearts;#, 6-10
+
+
+
 == Puolustustarjouksia
 
 === 1NT - puolustus
@@ -566,7 +596,6 @@ include::conventions/lebensohl-transfers.adoc[]
 |
 
 |===
-
 
 === Michael's cue
 
