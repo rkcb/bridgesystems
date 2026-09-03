@@ -1,0 +1,12 @@
+
+=== Kolmas väri
+
+Kolmas väri -sopimus tarkoittaa sarjoja, joissa
+avaaja on hyppäämättä tarjonnut avausvärinsä uudelleen
+ja vastaaja on näyttämässä uuden kolmannen värin, joka
+ei ole reverse, esimerkiksi:
+
+1  &clubs; - 1 [red]#&hearts;#  ; 2 &clubs; - 2 [red]#&diams;#
+
+Kaikki tätä muotoa olevat tarjoukset lupaavat tarjotussa värissä yleensä kolme korttia ollen vaatimus, mutta ei tpv.
+
