@@ -8,6 +8,12 @@
 ++++
 == Muutokset
 
+3.9.2026:
+
+Poistetaan lähtösäännöstä 1/3/5 eli aina lähdetään
+1/2/4. Lisätään kolmas väri -konventio, joka on
+vaatimus.
+
 2.2.2026:
 
 - ehdotuksia 1NT-häirintään, jossa Lebensohl ja siirtoja
@@ -89,13 +95,11 @@ uusi väri = 5k tarjottu väri, 8+
 
 | NT
 | 1/2/4
-| 1/2/4 (1/3/5)*
+| 1/2/4
 
 | Jatko
 | 1/2/4
 | 1/2/4
-
-3+| Muuten: *tukemattomassa partnerin värissä lähdetään: 1/3/5, [.underline]##x##x, xx[.underline]##x##, jne.
 
 3+| NT-sopimusta vastaan kuningas on vahva lähtö, pyytää joko rouvan ablokeerausta tai pituusmerkinantoa.
 
@@ -216,7 +220,6 @@ Merkinannot: pieni pyytää tai parillinen, Lavinthal
 === Reversen jälkeen
 
 include::conventions/lebensohl-after-reverse.adoc[]
-
 
 === 2/1-sarjoja
 
@@ -426,8 +429,6 @@ Sopimus on voimassa kahdennuksen jälkeenkin, mutta ei muuten.
 |===
 
 
-
-
 === Xyz -- 1x - 1y - 1z
 
 Xyz-sopimuksella tarjotaan aina kaikki tasaiset ja oman värin
@@ -455,6 +456,10 @@ on kolme tarjousta ja jatko on seuraava.
 1NT - 2&clubs; ; +
 2 [red]#&diams;# - 2 [red]#&hearts;# = 5+ [red]#&hearts;# ja 11-12p.
 
+
+// konventio
+
+include::conventions/third-suit.adoc[]
 
 === Drury vain 3. penkissä
 
@@ -496,7 +501,7 @@ include::conventions/2c.adoc[]
 
 === Tukikahdennus
 
-Avaaja näyttää vastaajan yläväritarjoukseen 3k tuen kahdennuksella. Jos
+Avaaja näyttää vastaajan yläväritarjoukseen 3k tuen kahdennuksella tai vastakahdennuksella. Jos
 tukikahdennus tehdään kolmen tasolla, niin se lupaa lisävoimaa ollen
 mahdollisesti rankkariluonteinen.
 
