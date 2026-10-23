@@ -338,3 +338,294 @@ em {
 .sectionbody {
   padding-left: 0;
 }
+
+/* Compact reference layout, limited to the Henrik-Esa system. */
+body.henrik-system {
+  --primary-color: #343434;
+  --secondary-color: #606060;
+  --accent-color: #b42318;
+  --text-color: #363636;
+  --bg-color: #f5f5f5;
+  --border-color: #dedede;
+  --table-header: #ededed;
+  --table-odd: #fafafa;
+  font-size: 16px;
+  line-height: 1.4;
+  padding: 12px;
+}
+
+.henrik-system #header,
+.henrik-system #content,
+.henrik-system #footer {
+  max-width: 1160px;
+  padding: 20px 24px;
+}
+
+.henrik-system #header {
+  color: var(--text-color);
+  background: #efefef;
+}
+
+.henrik-system #footer {
+  color: var(--secondary-color);
+}
+
+.henrik-system #header h1 {
+  color: var(--primary-color);
+  font-size: 2em;
+  font-weight: 400;
+}
+
+.henrik-system #toc {
+  margin: 16px 0 0;
+  padding: 12px 16px;
+}
+
+.henrik-system #toctitle {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+
+.henrik-system #toc > ul {
+  columns: 2;
+  column-gap: 24px;
+  margin: 0;
+}
+
+.henrik-system #toc li {
+  break-inside: avoid;
+}
+
+.henrik-system #toc a {
+  padding: 2px 0;
+  text-decoration: none;
+}
+
+.henrik-system #toc a:hover {
+  color: var(--primary-color);
+  background: var(--table-header);
+}
+
+.henrik-system .back-link {
+  margin-bottom: 8px;
+  padding: 5px 10px;
+  color: var(--primary-color);
+  background: #efefef;
+  border: 1px solid var(--border-color);
+}
+
+.henrik-system .back-link:hover {
+  background: #e6e6e6;
+  transform: none;
+}
+
+.henrik-system .sect1,
+.henrik-system .sect2,
+.henrik-system .sect3 {
+  margin: 1em 0;
+}
+
+.henrik-system h2 {
+  font-size: 1.5em;
+  margin: 1.2em 0 0.5em;
+  padding-bottom: 5px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.henrik-system h3 {
+  font-size: 1.15em;
+  margin: 1em 0 0.4em;
+  padding-bottom: 4px;
+  border-bottom-width: 1px;
+}
+
+.henrik-system strong {
+  color: inherit;
+}
+
+.henrik-system p {
+  margin: 0.5em 0;
+  line-height: 1.4;
+}
+
+.henrik-system table {
+  table-layout: fixed;
+  margin: 10px 0 14px;
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+.henrik-system th,
+.henrik-system td {
+  padding: 7px 9px;
+  vertical-align: top;
+  overflow-wrap: break-word;
+}
+
+.henrik-system th {
+  font-size: 0.9em;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.henrik-system td > p.tableblock {
+  margin: 0;
+  line-height: 1.35;
+}
+
+.henrik-system td:first-child {
+  font-weight: 600;
+}
+
+.henrik-system thead tr {
+  color: var(--primary-color);
+}
+
+.henrik-system .green {
+  color: #357447;
+}
+
+.henrik-system .black {
+  color: #000;
+}
+
+.henrik-system .walsh thead tr {
+  background: #e6e6e6;
+}
+
+.henrik-system .walsh td:first-child {
+  background: #f4f4f4;
+}
+
+.henrik-system .forcing,
+.henrik-system .artificial,
+.henrik-system .invite,
+.henrik-system .support-three,
+.henrik-system .support-four,
+.henrik-system .review {
+  font-weight: 600;
+}
+
+.henrik-system .forcing,
+.henrik-system .artificial {
+  color: #6a5276;
+}
+
+.henrik-system .invite,
+.henrik-system .support-three {
+  color: #4a6872;
+}
+
+.henrik-system .support-four {
+  color: #3f704f;
+}
+
+.henrik-system .review {
+  color: #854d0e;
+  background: #f0f0f0;
+}
+
+.henrik-system .review a {
+  color: inherit;
+}
+
+.henrik-system a[href^="#"] {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.henrik-system a:hover {
+  color: var(--primary-color);
+}
+
+.henrik-system h2 .anchor,
+.henrik-system h3 .anchor {
+  display: none;
+}
+
+@media (max-width: 850px) {
+  body.henrik-system {
+    padding: 0;
+  }
+
+  .henrik-system #header,
+  .henrik-system #content,
+  .henrik-system #footer {
+    padding: 12px;
+  }
+
+  .henrik-system table {
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    font-size: 1em;
+  }
+
+  .henrik-system th,
+  .henrik-system td {
+    padding: 6px;
+  }
+
+  .henrik-system #toc {
+    width: 100% !important;
+    margin: 12px 0 0 !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .henrik-system #toc > ul {
+    columns: 1;
+  }
+
+  .henrik-system th,
+  .henrik-system td {
+    padding: 5px 4px;
+  }
+}
+
+@media print {
+  body.henrik-system {
+    padding: 0;
+    color: #222;
+    background: white;
+  }
+
+  .henrik-system #header,
+  .henrik-system #content,
+  .henrik-system #footer {
+    max-width: none;
+    padding: 0;
+    box-shadow: none;
+  }
+
+  .henrik-system #header {
+    color: #222;
+    background: white;
+    text-align: left;
+  }
+
+  .henrik-system #header h1 {
+    color: #222;
+  }
+
+  .henrik-system .back-link,
+  .henrik-system #footer {
+    display: none;
+  }
+
+  .henrik-system table,
+  .henrik-system .review {
+    print-color-adjust: exact;
+  }
+
+  .henrik-system tr,
+  .henrik-system h2,
+  .henrik-system h3 {
+    break-inside: avoid;
+  }
+
+  .henrik-system h2,
+  .henrik-system h3 {
+    break-after: avoid;
+  }
+}
