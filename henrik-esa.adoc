@@ -41,12 +41,12 @@ Tarjoussarjojen vastustajat passaavat, ellei heidän tarjouksiaan ole merkitty s
 |===
 |Avaus |Jakauma / pituus |p |Huomio
 |1&nbsp;[green]##&clubs;## |2+&nbsp;[green]##&clubs;## |11+ |<<transfer-walsh,Transfer Walsh>>
-|1&nbsp;[red]##&diams;## |4+ [red]##&diams;## |11+ |3 [red]##&diams;## vain jakaumalla 4&nbsp;[black]##&spades;##–4 [red]##&hearts;##–3 [red]##&diams;##–2&nbsp;[green]##&clubs;##
+|1&nbsp;[red]##&diams;## |4+ [red]##&diams;## |11+ |
 |1&nbsp;[red]##&hearts;## |5+ [red]##&hearts;## |11+ |Viiden kortin yläväri
 |1&nbsp;[black]##&spades;## |5+&nbsp;[black]##&spades;## |11+ |Viiden kortin yläväri
 |1NT |Tasainen |15-17 |Voi sisältää 5k ylävärin
 |2&nbsp;[green]##&clubs;## |Vahva avaus |22+ |<<kaksi-tason-avaukset,Vastaukset>>
-|2&nbsp;[red]##&diams;## / 2&nbsp;[red]##&hearts;## / 2&nbsp;[black]##&spades;## |6k avausväri |6-10 |<<heikko-kaksi,Heikko kaksi>>
+|2&nbsp;[red]##&diams;## / 2&nbsp;[red]##&hearts;## / 2&nbsp;[black]##&spades;## |6k avausväri |6-10 |<<heikko-kaksi,Heikko kakkonen>>
 |2NT |Tasainen |20-21 |Voi sisältää 5k ylävärin
 |3x |6-7k avausväri |6-10 |Kaikki värit
 |4x |7-8k avausväri |6-10 |Kaikki värit
@@ -361,7 +361,7 @@ Stayman ja ylävärisiirrot vastaavat 1NT-avauksen jatkoja.
 Muut jatkot vastaavat lähteen mukaan 1NT-jatkoja.
 
 [[kaksi-tason-avaukset]]
-== Vahva ja heikot kaksi
+== Vahva ja heikot kakkoset
 
 === Vahva 2&nbsp;[green]##&clubs;##
 
@@ -372,7 +372,7 @@ Muut jatkot vastaavat lähteen mukaan 1NT-jatkoja.
 |===
 
 [[heikko-kaksi]]
-=== Heikko kaksi: 2NT kysyy voimaa
+=== Heikko kakkonen: 2NT kysyy voimaa
 
 [cols="3,4,2",options="header"]
 |===
