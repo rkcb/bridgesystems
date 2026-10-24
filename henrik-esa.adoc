@@ -13,7 +13,7 @@
 ++++
 
 Lähde: `misc/EsaHenrikSaycish.pdf`.
-Samat sopimukset taulukkomuodossa; lähteen epäselvät kohdat on merkitty <<tarkistettavat,tarkistettaviksi>>.
+Samat sopimukset taulukkomuodossa.
 
 [[merkinnat]]
 == Merkinnät
@@ -104,7 +104,7 @@ Lähde ei erittele tukijatkojen vaatimusluonnetta.
 |1&nbsp;[green]##&clubs;## - 1&nbsp;[black]##&spades;##; 2&nbsp;[red]##&diams;##
 |Luonnollinen ruututuki; ei ylävärisiirron vastaanotto
 |Ei eritelty
-|Tuen tarkka pituus ja voima <<tark-ruututuki,tarkistettava>>
+|Tuen tarkka pituus ja voima tarkistettava
 
 |1&nbsp;[green]##&clubs;## - 1&nbsp;[black]##&spades;##; 1NT - 2&nbsp;[black]##&spades;##
 |Vastaajan reverse: 5+ [red]##&diams;## ja 4+&nbsp;[black]##&spades;##
@@ -129,7 +129,7 @@ Lähde ei erittele Transfer Walshin voimassaoloa vastustajan väliintulon jälke
 |1x - 4x |5+k tuki avausväriin |3-8 |Estoluonteinen
 |1av - 2NT |Tasainen, ei 4k yläväriä |11-12 |[invite]#INV#
 |1yv - 2NT |4k tuki avausyläväriin |TPV-voima |<<jacoby,Jacoby 2NT>>
-|1x - 4yv |7+k tarjottu yläväri |Ei eritelty |Pelattavaksi; lähteen rajaus: `x ei ole pata`. <<tark-suora-nelja,Tarkistettava>>
+|1x - 4yv |7+k tarjottu yläväri |Ei eritelty |Pelattavaksi; lähteen rajaus: `x ei ole pata`. Tarkistettava
 |===
 
 [[vaatimukset]]
@@ -176,7 +176,7 @@ Lähde ei anna vastaukselle erillistä pisterajaa.
 |1&nbsp;[red]##&hearts;## - 2NT; 3NT
 |Hyppysangi
 |Ei eritelty
-|<<tark-jacoby,Hyppysangin ehdot tarkistettava>>
+|Hyppysangin ehdot tarkistettava
 
 |1&nbsp;[red]##&hearts;## - 2NT; 4&nbsp;[green]##&clubs;##
 |5k ristiväri
@@ -221,7 +221,7 @@ Lähde ei anna vastaukselle erillistä pisterajaa.
 |1&nbsp;[black]##&spades;## - 2NT; 3NT
 |Hyppysangi
 |Ei eritelty
-|<<tark-jacoby,Hyppysangin ehdot tarkistettava>>
+|Hyppysangin ehdot tarkistettava
 
 |1&nbsp;[black]##&spades;## - 2NT; 4&nbsp;[green]##&clubs;##
 |5k ristiväri
@@ -316,7 +316,7 @@ Ellei rivillä lue TPV, noudata <<vaatimukset,uuden värin ja vastaajan jatkotar
 |1NT - 3&nbsp;[red]##&diams;## |6k [red]##&diams;## |[invite]#INV#
 |1NT - 3&nbsp;[red]##&hearts;## |6k [red]##&hearts;## |Slammikiinnostus
 |1NT - 3&nbsp;[black]##&spades;## |6k [black]##&spades;## |Slammikiinnostus
-|1NT - 4&nbsp;[green]##&clubs;## |Gerber |<<tark-gerber,Vastausasteikko puuttuu lähteestä>>
+|1NT - 4&nbsp;[green]##&clubs;## |Gerber |Vastausasteikko puuttuu lähteestä
 |1NT - 4&nbsp;[red]##&hearts;## |Pelattavaksi |Ei siirto
 |1NT - 4&nbsp;[black]##&spades;## |Pelattavaksi |Ei siirto
 |1NT - 4NT |16-17p |Lähteen ilmoittama voima
@@ -355,7 +355,7 @@ Stayman ja ylävärisiirrot vastaavat 1NT-avauksen jatkoja.
 |2NT - 3&nbsp;[red]##&diams;## |Siirto herttaan |Ylävärisiirto
 |2NT - 3&nbsp;[red]##&hearts;## |Siirto pataan |Ylävärisiirto
 |2NT - 3&nbsp;[black]##&spades;## |Alavärit 4-4, slammikiinnostus |Erikoissopimus
-|2NT - 3&nbsp;[black]##&spades;##; 3NT |Lähteessä sana "`kiinnosta`" |[review]#<<tark-kaksi-nt,Tarkistettava>>#; ei oleteta kielteiseksi eikä myönteiseksi
+|2NT - 3&nbsp;[black]##&spades;##; 3NT |Lähteessä sana "`kiinnosta`" |[review]#Tarkistettava#; ei oleteta kielteiseksi eikä myönteiseksi
 |===
 
 Muut jatkot vastaavat lähteen mukaan 1NT-jatkoja.
@@ -368,7 +368,7 @@ Muut jatkot vastaavat lähteen mukaan 1NT-jatkoja.
 [cols="3,4,2",options="header"]
 |===
 |Koko sarja |Vastaajan käsi |Huomio
-|2&nbsp;[green]##&clubs;## - väritarjous |5k tarjottu väri, 8+p |Lähteen yleissääntö; <<tark-kaksi-ristia,tarkka vastausrakenne puuttuu>>
+|2&nbsp;[green]##&clubs;## - väritarjous |5k tarjottu väri, 8+p |Lähteen yleissääntö; tarkka vastausrakenne puuttuu
 |===
 
 [[heikko-kaksi]]
@@ -441,7 +441,7 @@ Lähde ei anna erillistä valttirouvakyselyn rakennetta.
 
 |1NT - (2x) - ?
 |Lebensohl
-|<<tark-lebensohl,Jatkorakenne puuttuu lähteestä>>
+|Jatkorakenne puuttuu lähteestä
 
 |1x - (1NT) - Dbl
 |Rankaisukahdennus
@@ -476,35 +476,4 @@ Lähde ei anna erillistä valttirouvakyselyn rakennetta.
 |(1NT) - 2&nbsp;[green]##&clubs;## |Ylävärit vähintään 5-4 |9+
 |(1NT) - 2NT |Alavärit 5-5 |Ei eritelty
 |(1NT) - muu tarjous |Luonnollinen |Ei eritelty
-|===
-
-[[tarkistettavat]]
-== Tarkistettavat kohdat
-
-Nämä ovat lähteen aukkoja, eivät uusia sovittuja sääntöjä.
-Muuten taulukoissa "`Ei eritelty`" tarkoittaa vain, ettei lähde anna kyseistä lisäehtoa.
-
-[cols="2,5",options="header"]
-|===
-|Kohta |Mitä lähteestä puuttuu tai pitää vahvistaa?
-|[[tark-ruututuki]]1&nbsp;[green]##&clubs;## - 1&nbsp;[black]##&spades;##; 2&nbsp;[red]##&diams;##
-|Luonnollisen ruututuen tarkka pituus, pistealue ja vaatimusluonne eivät ole erikseen kuvattuina.
-
-|[[tark-kaksi-nt]]2NT - 3&nbsp;[black]##&spades;##; 3NT
-|PDF:n sanamuoto on "`3NT kiinnosta`". Tarkoittaako tämä kiinnostusta vai kiinnostuksen puutetta? Kumpaakaan tulkintaa ei ole lisätty sopimukseksi.
-
-|[[tark-jacoby]]Jacoby 2NT; 3NT
-|Lähde sanoo "`hyppysangi`" mutta ei anna tämän sarjan pistealuetta tai tarkkaa jakaumaa.
-
-|[[tark-suora-nelja]]1x - 4yv
-|Lähde sanoo "`7+k yv, pelattavaksi, x ei ole pata`". Suhde saman värin estokorotukseen on tarkennettava; poikkeusta ei ole laajennettu.
-
-|[[tark-kaksi-ristia]]2&nbsp;[green]##&clubs;##-avauksen vastaukset
-|Lähde antaa väritarjoukselle 5k värin ja 8+p. Odottavaa vastausta ja sen suhdetta tähän sääntöön ei määritellä.
-
-|[[tark-gerber]]Gerber
-|1NT - 4&nbsp;[green]##&clubs;## on Gerber; vastausasteikkoa ei anneta.
-
-|[[tark-lebensohl]]Lebensohl
-|Sopimus mainitaan sarjassa 1NT - (2x), mutta vastauksia ja jatkoja ei kuvata.
 |===
